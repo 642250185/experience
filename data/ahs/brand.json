@@ -1,0 +1,317 @@
+[
+    {
+        "bid": 52,
+        "name": "苹果",
+        "allPage": 2
+    },
+    {
+        "bid": 105,
+        "name": "ThinkPad",
+        "allPage": 10
+    },
+    {
+        "bid": 103,
+        "name": "华硕",
+        "allPage": 27
+    },
+    {
+        "bid": 18,
+        "name": "联想",
+        "allPage": 22
+    },
+    {
+        "bid": 104,
+        "name": "宏碁",
+        "allPage": 17
+    },
+    {
+        "bid": 51,
+        "name": "戴尔",
+        "allPage": 20
+    },
+    {
+        "bid": 106,
+        "name": "神舟",
+        "allPage": 11
+    },
+    {
+        "bid": 102,
+        "name": "惠普",
+        "allPage": 46
+    },
+    {
+        "bid": 272,
+        "name": "微软",
+        "allPage": 1
+    },
+    {
+        "bid": 17,
+        "name": "索尼",
+        "allPage": 5
+    },
+    {
+        "bid": 7,
+        "name": "三星",
+        "allPage": 14
+    },
+    {
+        "bid": 107,
+        "name": "东芝",
+        "allPage": 14
+    },
+    {
+        "bid": 352,
+        "name": "机械革命",
+        "allPage": 2
+    },
+    {
+        "bid": 390,
+        "name": "Alienware",
+        "allPage": 1
+    },
+    {
+        "bid": 354,
+        "name": "雷神",
+        "allPage": 4
+    },
+    {
+        "bid": 269,
+        "name": "msi微星",
+        "allPage": 9
+    },
+    {
+        "bid": 116,
+        "name": "富士通",
+        "allPage": 6
+    },
+    {
+        "bid": 108,
+        "name": "清华同方",
+        "allPage": 6
+    },
+    {
+        "bid": 112,
+        "name": "海尔",
+        "allPage": 4
+    },
+    {
+        "bid": 111,
+        "name": "方正",
+        "allPage": 3
+    },
+    {
+        "bid": 384,
+        "name": "主齿轮",
+        "allPage": 1
+    },
+    {
+        "bid": 141,
+        "name": "Gateway ",
+        "allPage": 4
+    },
+    {
+        "bid": 121,
+        "name": "明基",
+        "allPage": 3
+    },
+    {
+        "bid": 377,
+        "name": "得峰",
+        "allPage": 1
+    },
+    {
+        "bid": 124,
+        "name": "优派",
+        "allPage": 1
+    },
+    {
+        "bid": 119,
+        "name": "七喜",
+        "allPage": 3
+    },
+    {
+        "bid": 122,
+        "name": "长城",
+        "allPage": 2
+    },
+    {
+        "bid": 302,
+        "name": "松下",
+        "allPage": 2
+    },
+    {
+        "bid": 376,
+        "name": "万利达",
+        "allPage": 1
+    },
+    {
+        "bid": 3,
+        "name": "LG",
+        "allPage": 3
+    },
+    {
+        "bid": 118,
+        "name": "技嘉",
+        "allPage": 3
+    },
+    {
+        "bid": 346,
+        "name": "镭波",
+        "allPage": 2
+    },
+    {
+        "bid": 347,
+        "name": "Terrans Force",
+        "allPage": 2
+    },
+    {
+        "bid": 348,
+        "name": "NEC",
+        "allPage": 1
+    },
+    {
+        "bid": 349,
+        "name": "Wbin",
+        "allPage": 1
+    },
+    {
+        "bid": 350,
+        "name": "海鲅",
+        "allPage": 1
+    },
+    {
+        "bid": 351,
+        "name": "雷蛇",
+        "allPage": 1
+    },
+    {
+        "bid": 353,
+        "name": "炫龙",
+        "allPage": 3
+    },
+    {
+        "bid": 378,
+        "name": "机械师",
+        "allPage": 1
+    },
+    {
+        "bid": 381,
+        "name": "幻影战士",
+        "allPage": 1
+    },
+    {
+        "bid": 382,
+        "name": "魔法师",
+        "allPage": 1
+    },
+    {
+        "bid": 401,
+        "name": "火影",
+        "allPage": 1
+    },
+    {
+        "bid": 9,
+        "name": "华为 ",
+        "allPage": 1
+    },
+    {
+        "bid": 484,
+        "name": "荣耀",
+        "allPage": 1
+    },
+    {
+        "bid": 374,
+        "name": "七彩虹",
+        "allPage": 1
+    },
+    {
+        "bid": 419,
+        "name": "AORUS",
+        "allPage": 1
+    },
+    {
+        "bid": 184,
+        "name": "小米",
+        "allPage": 1
+    },
+    {
+        "bid": 457,
+        "name": "麦本本",
+        "allPage": 3
+    },
+    {
+        "bid": 464,
+        "name": "戴睿dere",
+        "allPage": 1
+    },
+    {
+        "bid": 465,
+        "name": "宝扬BYONE",
+        "allPage": 1
+    },
+    {
+        "bid": 466,
+        "name": "锋锐YEPO",
+        "allPage": 1
+    },
+    {
+        "bid": 467,
+        "name": "维派",
+        "allPage": 1
+    },
+    {
+        "bid": 468,
+        "name": "天宝T-bao",
+        "allPage": 1
+    },
+    {
+        "bid": 469,
+        "name": "彗星人",
+        "allPage": 1
+    },
+    {
+        "bid": 470,
+        "name": "TaiAiCH",
+        "allPage": 1
+    },
+    {
+        "bid": 471,
+        "name": "AWO",
+        "allPage": 1
+    },
+    {
+        "bid": 472,
+        "name": "紫麦",
+        "allPage": 1
+    },
+    {
+        "bid": 473,
+        "name": "格莱富",
+        "allPage": 1
+    },
+    {
+        "bid": 474,
+        "name": "乐凡livefan",
+        "allPage": 1
+    },
+    {
+        "bid": 475,
+        "name": "标逸BEEX",
+        "allPage": 1
+    },
+    {
+        "bid": 476,
+        "name": "ENZ",
+        "allPage": 1
+    },
+    {
+        "bid": 394,
+        "name": "VOYO",
+        "allPage": 1
+    },
+    {
+        "bid": 266,
+        "name": "其他品牌",
+        "allPage": 1
+    }
+]

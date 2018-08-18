@@ -1,0 +1,182 @@
+[
+    {
+        "bid": 10,
+        "name": "苹果",
+        "orderId": 11,
+        "fromTag": 1
+    },
+    {
+        "bid": 20,
+        "name": "三星",
+        "orderId": 12,
+        "fromTag": 1
+    },
+    {
+        "bid": 100,
+        "name": "华为",
+        "orderId": 13,
+        "fromTag": 1
+    },
+    {
+        "bid": 360,
+        "name": "荣耀",
+        "orderId": 13,
+        "fromTag": 1
+    },
+    {
+        "bid": 110,
+        "name": "小米",
+        "orderId": 14,
+        "fromTag": 1
+    },
+    {
+        "bid": 40,
+        "name": "OPPO",
+        "orderId": 15,
+        "fromTag": 1
+    },
+    {
+        "bid": 50,
+        "name": "vivo",
+        "orderId": 16,
+        "fromTag": 1
+    },
+    {
+        "bid": 220,
+        "name": "魅族",
+        "orderId": 17,
+        "fromTag": 1
+    },
+    {
+        "bid": 200,
+        "name": "酷派",
+        "orderId": 18,
+        "fromTag": 1
+    },
+    {
+        "bid": 80,
+        "name": "乐视",
+        "orderId": 18,
+        "fromTag": 1
+    },
+    {
+        "bid": 410,
+        "name": "ivvi",
+        "orderId": 19,
+        "fromTag": 1
+    },
+    {
+        "bid": 60,
+        "name": "中兴",
+        "orderId": 20,
+        "fromTag": 1
+    },
+    {
+        "bid": 210,
+        "name": "金立",
+        "orderId": 21,
+        "fromTag": 1
+    },
+    {
+        "bid": 310,
+        "name": "锤子",
+        "orderId": 22,
+        "fromTag": 1
+    },
+    {
+        "bid": 120,
+        "name": "摩托罗拉",
+        "orderId": 22,
+        "fromTag": 1
+    },
+    {
+        "bid": 190,
+        "name": "诺基亚",
+        "orderId": 23,
+        "fromTag": 1
+    },
+    {
+        "bid": 170,
+        "name": "联想",
+        "orderId": 24,
+        "fromTag": 1
+    },
+    {
+        "bid": 30,
+        "name": "HTC",
+        "orderId": 25,
+        "fromTag": 1
+    },
+    {
+        "bid": 140,
+        "name": "索尼",
+        "orderId": 26,
+        "fromTag": 1
+    },
+    {
+        "bid": 300,
+        "name": "中国移动",
+        "orderId": 27,
+        "fromTag": 1
+    },
+    {
+        "bid": 370,
+        "name": "康佳",
+        "orderId": 28,
+        "fromTag": 1
+    },
+    {
+        "bid": 380,
+        "name": "TCL",
+        "orderId": 29,
+        "fromTag": 1
+    },
+    {
+        "bid": 340,
+        "name": "美图",
+        "orderId": 30,
+        "fromTag": 1
+    },
+    {
+        "bid": 390,
+        "name": "LG",
+        "orderId": 31,
+        "fromTag": 1
+    },
+    {
+        "bid": 400,
+        "name": "朵唯",
+        "orderId": 32,
+        "fromTag": 1
+    },
+    {
+        "bid": 420,
+        "name": "小辣椒",
+        "orderId": 33,
+        "fromTag": 1
+    },
+    {
+        "bid": 350,
+        "name": "一加",
+        "orderId": 40,
+        "fromTag": 1
+    },
+    {
+        "bid": 330,
+        "name": "360",
+        "orderId": 80,
+        "fromTag": 1
+    },
+    {
+        "bid": 450,
+        "name": "诺亚信",
+        "orderId": 90,
+        "fromTag": 1
+    },
+    {
+        "bid": 2,
+        "name": "其他品牌",
+        "orderId": 9999,
+        "fromTag": 1
+    }
+]

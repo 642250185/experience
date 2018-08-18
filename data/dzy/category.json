@@ -1,0 +1,620 @@
+[
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "135481276860730989",
+        "categroyName": "豆瓣 8.5"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "135481276923645540",
+        "categroyName": "越贵越省钱"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "162556639629544058",
+        "categroyName": "只在多抓鱼有"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "162556639658901936",
+        "categroyName": "新出版"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "165071856997498988",
+        "categroyName": "特价区"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "165072269884786364",
+        "categroyName": "大作家"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "180702887721042144",
+        "categroyName": "手慢无"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "180702887762986021",
+        "categroyName": "有年头的书"
+    },
+    {
+        "group": "多抓鱼味的推荐",
+        "groupId": "135481276831369709",
+        "categoryId": "210503271448577711",
+        "categroyName": "鱼味英文经典"
+    },
+    {
+        "group": "孩子的书架",
+        "groupId": "135481276969781930",
+        "categoryId": "192705364620218287",
+        "categroyName": "0-3 岁童书"
+    },
+    {
+        "group": "孩子的书架",
+        "groupId": "135481276969781930",
+        "categoryId": "192705364733462823",
+        "categroyName": "3-6 岁童书"
+    },
+    {
+        "group": "孩子的书架",
+        "groupId": "135481276969781930",
+        "categoryId": "192705364842514977",
+        "categroyName": "7-10 岁少儿"
+    },
+    {
+        "group": "孩子的书架",
+        "groupId": "135481276969781930",
+        "categoryId": "192705364943178233",
+        "categroyName": "10+ 岁少儿"
+    },
+    {
+        "group": "孩子的书架",
+        "groupId": "135481276969781930",
+        "categoryId": "206505404102869156",
+        "categroyName": "英文童书"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481276990750964",
+        "categroyName": "电影"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481277103999477",
+        "categroyName": "摄影 "
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481277196271782",
+        "categroyName": "艺术"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481277351463906",
+        "categroyName": "设计"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481277607314795",
+        "categroyName": "绘本"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481277783477165",
+        "categroyName": "音乐"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481277972218467",
+        "categroyName": "绘画"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481278282598963",
+        "categroyName": "戏剧"
+    },
+    {
+        "group": "艺术的边界",
+        "groupId": "135481276969781932",
+        "categoryId": "135481278425206253",
+        "categroyName": "建筑"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481278622338534",
+        "categroyName": "中国文学"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481278697835685",
+        "categroyName": "古籍"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481278907549544",
+        "categroyName": "外国文学"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481279503142569",
+        "categroyName": "阅读与写作"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481279691883955",
+        "categroyName": "诗歌"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481279918377652",
+        "categroyName": "散文"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280065178532",
+        "categroyName": "随笔"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280228756718",
+        "categroyName": "纪实"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280337808544",
+        "categroyName": "回忆录"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280413305897",
+        "categroyName": "人物传记"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280551716265",
+        "categroyName": "推理"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280685933665",
+        "categroyName": "悬疑"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280757236786",
+        "categroyName": "幻想力"
+    },
+    {
+        "group": "文字的张力",
+        "groupId": "135481278597172146",
+        "categoryId": "135481280979536803",
+        "categroyName": "科幻"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481281130531939",
+        "categroyName": "政治"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481281357021243",
+        "categroyName": "军事与战争"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481281583516092",
+        "categroyName": "经济"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481281822592105",
+        "categroyName": "历史"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481282061665849",
+        "categroyName": "社会学"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481282170719078",
+        "categroyName": "人类学"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481282363655098",
+        "categroyName": "哲学"
+    },
+    {
+        "group": "认知世界的维度",
+        "groupId": "135481281105363838",
+        "categoryId": "135481282648867304",
+        "categroyName": "宗教"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283047326121",
+        "categroyName": "旅行"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283231875936",
+        "categroyName": "LonelyPlanet"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283311570336",
+        "categroyName": "英国"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283416426038",
+        "categroyName": "美国"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283546448890",
+        "categroyName": "北京"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283743582880",
+        "categroyName": "上海"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481283932325035",
+        "categroyName": "香港"
+    },
+    {
+        "group": "打开新地图",
+        "groupId": "135481283022162864",
+        "categoryId": "135481284108485290",
+        "categroyName": "台湾"
+    },
+    {
+        "group": "东瀛爱好者",
+        "groupId": "135481284188178862",
+        "categoryId": "135481284209150064",
+        "categroyName": "日本文化"
+    },
+    {
+        "group": "东瀛爱好者",
+        "groupId": "135481284188178862",
+        "categoryId": "135481284334980211",
+        "categroyName": "日本文学"
+    },
+    {
+        "group": "东瀛爱好者",
+        "groupId": "135481284188178862",
+        "categoryId": "135481284414671586",
+        "categroyName": "日系推理"
+    },
+    {
+        "group": "东瀛爱好者",
+        "groupId": "135481284188178862",
+        "categoryId": "135481284611802022",
+        "categroyName": "日语学习"
+    },
+    {
+        "group": "东瀛爱好者",
+        "groupId": "135481284188178862",
+        "categoryId": "135481284741827578",
+        "categroyName": "漫画·游戏·轻小说"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481285396137466",
+        "categroyName": "美食"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481285706514661",
+        "categroyName": "宠物"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481285878481977",
+        "categroyName": "吸猫"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481285966563004",
+        "categroyName": "撸狗"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481286058836259",
+        "categroyName": "咖啡"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481286239192686",
+        "categroyName": "杂志"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481286461491053",
+        "categroyName": "时尚"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481286713149873",
+        "categroyName": "手工"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481286910282481",
+        "categroyName": "家居"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481287065470199",
+        "categroyName": "植物园艺"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "135481287220658492",
+        "categroyName": "情感"
+    },
+    {
+        "group": "37 度半的生活指南",
+        "groupId": "135481285375168126",
+        "categoryId": "145180056614864618",
+        "categroyName": "青春"
+    },
+    {
+        "group": "大于等于二人的世界",
+        "groupId": "135481287329710845",
+        "categoryId": "135481287354876925",
+        "categroyName": "婚姻"
+    },
+    {
+        "group": "大于等于二人的世界",
+        "groupId": "135481287329710845",
+        "categoryId": "135481287564593021",
+        "categroyName": "教育"
+    },
+    {
+        "group": "大于等于二人的世界",
+        "groupId": "135481287329710845",
+        "categoryId": "135481287715588384",
+        "categroyName": "育儿"
+    },
+    {
+        "group": "大于等于二人的世界",
+        "groupId": "135481287329710845",
+        "categoryId": "135481287858194929",
+        "categroyName": "童书"
+    },
+    {
+        "group": "大于等于二人的世界",
+        "groupId": "135481287329710845",
+        "categoryId": "135481288046939581",
+        "categroyName": "健康"
+    },
+    {
+        "group": "大于等于二人的世界",
+        "groupId": "135481287329710845",
+        "categoryId": "135481288185350704",
+        "categroyName": "医疗"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481288361512686",
+        "categroyName": "职业规划"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481288504119265",
+        "categroyName": "自我管理"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481288676084397",
+        "categroyName": "时间管理"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481288831274936",
+        "categroyName": "理财"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481288969686624",
+        "categroyName": "沟通"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481289171011110",
+        "categroyName": "英语"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481289359757055",
+        "categroyName": "运动健身"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481289573664302",
+        "categroyName": "涨知识"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481290005676332",
+        "categroyName": "心理"
+    },
+    {
+        "group": "我变强了，没有变秃",
+        "groupId": "135481288340540976",
+        "categoryId": "135481290580295910",
+        "categroyName": "灵修"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481290735485863",
+        "categroyName": "互联网"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481290873897190",
+        "categroyName": "创业"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481290974563116",
+        "categroyName": "产品·运营"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481291167499823",
+        "categroyName": "算法·编程"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481291465295923",
+        "categroyName": "交互设计"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481291578540451",
+        "categroyName": "科技"
+    },
+    {
+        "group": "互联网聊天必备",
+        "groupId": "135481290710321983",
+        "categoryId": "135481291687595642",
+        "categroyName": "计算机"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481291826005674",
+        "categroyName": "投资"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481292069275574",
+        "categroyName": "企业管理"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481292304156580",
+        "categroyName": "法律"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481292522262375",
+        "categroyName": "财务·会计"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481292711002786",
+        "categroyName": "新闻与传播"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481292987829547",
+        "categroyName": "广告·文案"
+    },
+    {
+        "group": "拥抱——工作！",
+        "groupId": "135481291805033317",
+        "categoryId": "135481293155598397",
+        "categroyName": "市场营销"
+    },
+    {
+        "group": "进口书精选",
+        "groupId": "135481293294012263",
+        "categoryId": "135481293314983272",
+        "categroyName": "英文进口"
+    },
+    {
+        "group": "进口书精选",
+        "groupId": "135481293294012263",
+        "categoryId": "135481293377898466",
+        "categroyName": "日文进口"
+    },
+    {
+        "group": "进口书精选",
+        "groupId": "135481293294012263",
+        "categoryId": "135481293432426424",
+        "categroyName": "港台进口"
+    }
+]

@@ -1,0 +1,4987 @@
+[
+    {
+        "pid": "11914",
+        "pname": "苹果iPhone 8",
+        "categoryId": 1
+    },
+    {
+        "pid": "11915",
+        "pname": "苹果iPhone 8 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "11916",
+        "pname": "苹果iPhone X",
+        "categoryId": 1
+    },
+    {
+        "pid": "3253",
+        "pname": "iPhone7 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "3252",
+        "pname": "iPhone7",
+        "categoryId": 1
+    },
+    {
+        "pid": "44",
+        "pname": "iPhone6s plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "43",
+        "pname": "iPhone6s",
+        "categoryId": 1
+    },
+    {
+        "pid": "41",
+        "pname": "iPhone6",
+        "categoryId": 1
+    },
+    {
+        "pid": "42",
+        "pname": "iPhone6 plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "2150",
+        "pname": "iPhone SE",
+        "categoryId": 1
+    },
+    {
+        "pid": "418",
+        "pname": "iPad mini3",
+        "categoryId": 1
+    },
+    {
+        "pid": "421",
+        "pname": "iPad mini4",
+        "categoryId": 1
+    },
+    {
+        "pid": "10173",
+        "pname": "iPad 五代（2017最新版）",
+        "categoryId": 1
+    },
+    {
+        "pid": "47",
+        "pname": "iPhone5s",
+        "categoryId": 1
+    },
+    {
+        "pid": "48",
+        "pname": "iPod6",
+        "categoryId": 1
+    },
+    {
+        "pid": "40",
+        "pname": "iPhone5 ",
+        "categoryId": 1
+    },
+    {
+        "pid": "45",
+        "pname": "iPhone4s",
+        "categoryId": 1
+    },
+    {
+        "pid": "46",
+        "pname": "iPhone5c",
+        "categoryId": 1
+    },
+    {
+        "pid": "5668",
+        "pname": "iPhone4",
+        "categoryId": 1
+    },
+    {
+        "pid": "8553",
+        "pname": "vivo Y923",
+        "categoryId": 1
+    },
+    {
+        "pid": "8554",
+        "pname": "vivo Y623",
+        "categoryId": 1
+    },
+    {
+        "pid": "2145",
+        "pname": "三星9350 S7 edge",
+        "categoryId": 1
+    },
+    {
+        "pid": "407",
+        "pname": "三星 A3000",
+        "categoryId": 1
+    },
+    {
+        "pid": "408",
+        "pname": "三星 A5000",
+        "categoryId": 1
+    },
+    {
+        "pid": "410",
+        "pname": "三星 A3009",
+        "categoryId": 1
+    },
+    {
+        "pid": "2379",
+        "pname": "三星Note2 N7105",
+        "categoryId": 1
+    },
+    {
+        "pid": "471",
+        "pname": "三星 GALAXY J7008",
+        "categoryId": 1
+    },
+    {
+        "pid": "2358",
+        "pname": "三星G900H",
+        "categoryId": 1
+    },
+    {
+        "pid": "2359",
+        "pname": "三星GALAXY S5 G900F",
+        "categoryId": 1
+    },
+    {
+        "pid": "3251",
+        "pname": "三星 Note7",
+        "categoryId": 1
+    },
+    {
+        "pid": "7629",
+        "pname": "三星 W2017",
+        "categoryId": 1
+    },
+    {
+        "pid": "7724",
+        "pname": "三星C7010",
+        "categoryId": 1
+    },
+    {
+        "pid": "7725",
+        "pname": "三星 W2017+",
+        "categoryId": 1
+    },
+    {
+        "pid": "8072",
+        "pname": "三星Galaxy C7 Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "8075",
+        "pname": "三星 Galaxy Note 5",
+        "categoryId": 1
+    },
+    {
+        "pid": "9522",
+        "pname": "三星GALAXY C5 Pro（C5010）",
+        "categoryId": 1
+    },
+    {
+        "pid": "9605",
+        "pname": "三星 GALAXY S8（G9500）",
+        "categoryId": 1
+    },
+    {
+        "pid": "10071",
+        "pname": "三星 GALAXY S8+(G9550)",
+        "categoryId": 1
+    },
+    {
+        "pid": "10798",
+        "pname": "三星 GALAXY S7 edge(G9350) 蝙蝠侠版",
+        "categoryId": 1
+    },
+    {
+        "pid": "11700",
+        "pname": "三星大器5（三星G9298 ）",
+        "categoryId": 1
+    },
+    {
+        "pid": "12100",
+        "pname": "三星 Galaxy Note8（N9500）",
+        "categoryId": 1
+    },
+    {
+        "pid": "12103",
+        "pname": "三星 Galaxy C7 Pro（c7010/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14269",
+        "pname": "三星 Galaxy C8（c7108）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14273",
+        "pname": "三星 Galaxy C8（c7100）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14580",
+        "pname": "三星 Galaxy Note8(N9508)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14901",
+        "pname": "三星 W2018",
+        "categoryId": 1
+    },
+    {
+        "pid": "15281",
+        "pname": "三星 Galaxy S9(g9600)",
+        "categoryId": 1
+    },
+    {
+        "pid": "15282",
+        "pname": "三星 Galaxy S9+(g9650)",
+        "categoryId": 1
+    },
+    {
+        "pid": "15339",
+        "pname": "三星 W2018+",
+        "categoryId": 1
+    },
+    {
+        "pid": "16042",
+        "pname": "三星 Galaxy S 轻奢版",
+        "categoryId": 1
+    },
+    {
+        "pid": "16060",
+        "pname": "三星Galaxy A9 Star",
+        "categoryId": 1
+    },
+    {
+        "pid": "485",
+        "pname": "三星 GALAXY A9000",
+        "categoryId": 1
+    },
+    {
+        "pid": "59",
+        "pname": "三星 G9008V",
+        "categoryId": 1
+    },
+    {
+        "pid": "58",
+        "pname": "三星N9106V",
+        "categoryId": 1
+    },
+    {
+        "pid": "56",
+        "pname": "三星N9109W",
+        "categoryId": 1
+    },
+    {
+        "pid": "55",
+        "pname": "三星N9100",
+        "categoryId": 1
+    },
+    {
+        "pid": "54",
+        "pname": "三星N900",
+        "categoryId": 1
+    },
+    {
+        "pid": "53",
+        "pname": "三星 N9005",
+        "categoryId": 1
+    },
+    {
+        "pid": "52",
+        "pname": "三星N9002",
+        "categoryId": 1
+    },
+    {
+        "pid": "51",
+        "pname": "三星N9009",
+        "categoryId": 1
+    },
+    {
+        "pid": "50",
+        "pname": "三星N9008",
+        "categoryId": 1
+    },
+    {
+        "pid": "49",
+        "pname": "三星N9006",
+        "categoryId": 1
+    },
+    {
+        "pid": "60",
+        "pname": "三星G9008W",
+        "categoryId": 1
+    },
+    {
+        "pid": "61",
+        "pname": "三星G9009W",
+        "categoryId": 1
+    },
+    {
+        "pid": "62",
+        "pname": "三星G9006W",
+        "categoryId": 1
+    },
+    {
+        "pid": "63",
+        "pname": "三星G9006V",
+        "categoryId": 1
+    },
+    {
+        "pid": "64",
+        "pname": "三星G9009D",
+        "categoryId": 1
+    },
+    {
+        "pid": "402",
+        "pname": "三星 W2014",
+        "categoryId": 1
+    },
+    {
+        "pid": "403",
+        "pname": "三星 W2014+",
+        "categoryId": 1
+    },
+    {
+        "pid": "404",
+        "pname": "三星 W2013",
+        "categoryId": 1
+    },
+    {
+        "pid": "405",
+        "pname": "三星 W2013+",
+        "categoryId": 1
+    },
+    {
+        "pid": "409",
+        "pname": "三星 A5009",
+        "categoryId": 1
+    },
+    {
+        "pid": "411",
+        "pname": "三星 A8000",
+        "categoryId": 1
+    },
+    {
+        "pid": "412",
+        "pname": "三星 G9198",
+        "categoryId": 1
+    },
+    {
+        "pid": "413",
+        "pname": "三星 G9098",
+        "categoryId": 1
+    },
+    {
+        "pid": "415",
+        "pname": "三星 GALAXY S3 i9300",
+        "categoryId": 1
+    },
+    {
+        "pid": "417",
+        "pname": "三星 GALAXY S3 9308",
+        "categoryId": 1
+    },
+    {
+        "pid": "420",
+        "pname": "三星 GALAXY S6 G9250",
+        "categoryId": 1
+    },
+    {
+        "pid": "422",
+        "pname": "三星 GALAXY S6 G9208",
+        "categoryId": 1
+    },
+    {
+        "pid": "423",
+        "pname": "三星 GALAXY S6 G9209",
+        "categoryId": 1
+    },
+    {
+        "pid": "426",
+        "pname": "三星 GALAXY Note 9220",
+        "categoryId": 1
+    },
+    {
+        "pid": "427",
+        "pname": "三星 GALAXY 9100G",
+        "categoryId": 1
+    },
+    {
+        "pid": "428",
+        "pname": "三星 GALAXY i9152",
+        "categoryId": 1
+    },
+    {
+        "pid": "429",
+        "pname": "三星 GALAXY S2",
+        "categoryId": 1
+    },
+    {
+        "pid": "430",
+        "pname": "三星 S7562",
+        "categoryId": 1
+    },
+    {
+        "pid": "431",
+        "pname": "三星 GALAXY i8552",
+        "categoryId": 1
+    },
+    {
+        "pid": "432",
+        "pname": "三星 GALAXY G7106",
+        "categoryId": 1
+    },
+    {
+        "pid": "433",
+        "pname": "三星 i869",
+        "categoryId": 1
+    },
+    {
+        "pid": "434",
+        "pname": "三星 i9082",
+        "categoryId": 1
+    },
+    {
+        "pid": "435",
+        "pname": "三星 i829",
+        "categoryId": 1
+    },
+    {
+        "pid": "436",
+        "pname": "三星 i879",
+        "categoryId": 1
+    },
+    {
+        "pid": "437",
+        "pname": "三星 i9082i",
+        "categoryId": 1
+    },
+    {
+        "pid": "438",
+        "pname": "三星 8558",
+        "categoryId": 1
+    },
+    {
+        "pid": "439",
+        "pname": "三星 S7568",
+        "categoryId": 1
+    },
+    {
+        "pid": "440",
+        "pname": "三星 i9200",
+        "categoryId": 1
+    },
+    {
+        "pid": "441",
+        "pname": "三星 GALAXY N9200",
+        "categoryId": 1
+    },
+    {
+        "pid": "442",
+        "pname": "三星 GALAXY G7108v",
+        "categoryId": 1
+    },
+    {
+        "pid": "443",
+        "pname": "三星 GALAXY i9158",
+        "categoryId": 1
+    },
+    {
+        "pid": "444",
+        "pname": "三星 GALAXY S4 9502",
+        "categoryId": 1
+    },
+    {
+        "pid": "446",
+        "pname": "三星 G3818",
+        "categoryId": 1
+    },
+    {
+        "pid": "447",
+        "pname": "三星 G3819D",
+        "categoryId": 1
+    },
+    {
+        "pid": "448",
+        "pname": "三星 i9260",
+        "categoryId": 1
+    },
+    {
+        "pid": "449",
+        "pname": "三星 i9208",
+        "categoryId": 1
+    },
+    {
+        "pid": "451",
+        "pname": "三星 GALAXY i879E",
+        "categoryId": 1
+    },
+    {
+        "pid": "452",
+        "pname": "三星 G3812",
+        "categoryId": 1
+    },
+    {
+        "pid": "453",
+        "pname": "三星 G7108",
+        "categoryId": 1
+    },
+    {
+        "pid": "456",
+        "pname": "三星 GT8268",
+        "categoryId": 1
+    },
+    {
+        "pid": "457",
+        "pname": "三星 GALAXY i9158P",
+        "categoryId": 1
+    },
+    {
+        "pid": "458",
+        "pname": "三星 GALAXY J3",
+        "categoryId": 1
+    },
+    {
+        "pid": "460",
+        "pname": "三星 GALAXY G51058Q",
+        "categoryId": 1
+    },
+    {
+        "pid": "462",
+        "pname": "三星 i889",
+        "categoryId": 1
+    },
+    {
+        "pid": "464",
+        "pname": "三星 i8262D",
+        "categoryId": 1
+    },
+    {
+        "pid": "465",
+        "pname": "三星 i9100G",
+        "categoryId": 1
+    },
+    {
+        "pid": "468",
+        "pname": "三星 GALAXY G5309W",
+        "categoryId": 1
+    },
+    {
+        "pid": "470",
+        "pname": "三星 GALAXY J5008",
+        "categoryId": 1
+    },
+    {
+        "pid": "472",
+        "pname": "三星 GALAXY  G3509i",
+        "categoryId": 1
+    },
+    {
+        "pid": "473",
+        "pname": "三星 GALAXY G3608",
+        "categoryId": 1
+    },
+    {
+        "pid": "474",
+        "pname": "三星 i929",
+        "categoryId": 1
+    },
+    {
+        "pid": "475",
+        "pname": "三星 E120s",
+        "categoryId": 1
+    },
+    {
+        "pid": "476",
+        "pname": "三星 GALAXY S7898",
+        "categoryId": 1
+    },
+    {
+        "pid": "477",
+        "pname": "三星 GALAXY i9128",
+        "categoryId": 1
+    },
+    {
+        "pid": "478",
+        "pname": "三星 GALAXY i699",
+        "categoryId": 1
+    },
+    {
+        "pid": "479",
+        "pname": "三星 GALAXY i9268",
+        "categoryId": 1
+    },
+    {
+        "pid": "480",
+        "pname": "三星 GALAXY i739",
+        "categoryId": 1
+    },
+    {
+        "pid": "482",
+        "pname": "三星 GALAXY G5308W",
+        "categoryId": 1
+    },
+    {
+        "pid": "483",
+        "pname": "三星 GALAXY S4 ZOOM",
+        "categoryId": 1
+    },
+    {
+        "pid": "484",
+        "pname": "三星 GALAXY S4 mini",
+        "categoryId": 1
+    },
+    {
+        "pid": "486",
+        "pname": "三星 GALAXY i9168",
+        "categoryId": 1
+    },
+    {
+        "pid": "487",
+        "pname": "三星 GALAXY G7508",
+        "categoryId": 1
+    },
+    {
+        "pid": "488",
+        "pname": "三星 GALAXY G5108",
+        "categoryId": 1
+    },
+    {
+        "pid": "489",
+        "pname": "三星 GALAXY E220",
+        "categoryId": 1
+    },
+    {
+        "pid": "490",
+        "pname": "三星 GALAXY S5570",
+        "categoryId": 1
+    },
+    {
+        "pid": "491",
+        "pname": "三星 GALAXY S5230l",
+        "categoryId": 1
+    },
+    {
+        "pid": "492",
+        "pname": "三星 GT6818",
+        "categoryId": 1
+    },
+    {
+        "pid": "493",
+        "pname": "三星 G3502U",
+        "categoryId": 1
+    },
+    {
+        "pid": "494",
+        "pname": "三星 i8160",
+        "categoryId": 1
+    },
+    {
+        "pid": "498",
+        "pname": "三星 i509",
+        "categoryId": 1
+    },
+    {
+        "pid": "499",
+        "pname": "三星 G3606",
+        "categoryId": 1
+    },
+    {
+        "pid": "500",
+        "pname": "三星 9152P",
+        "categoryId": 1
+    },
+    {
+        "pid": "501",
+        "pname": "三星 G7109",
+        "categoryId": 1
+    },
+    {
+        "pid": "504",
+        "pname": "三星 G3508V",
+        "categoryId": 1
+    },
+    {
+        "pid": "505",
+        "pname": "三星 i9082C",
+        "categoryId": 1
+    },
+    {
+        "pid": "506",
+        "pname": "三星 P709",
+        "categoryId": 1
+    },
+    {
+        "pid": "508",
+        "pname": "三星 i9003",
+        "categoryId": 1
+    },
+    {
+        "pid": "509",
+        "pname": "三星 i579",
+        "categoryId": 1
+    },
+    {
+        "pid": "510",
+        "pname": "三星 i9008",
+        "categoryId": 1
+    },
+    {
+        "pid": "511",
+        "pname": "三星 i909",
+        "categoryId": 1
+    },
+    {
+        "pid": "512",
+        "pname": "三星 i9070",
+        "categoryId": 1
+    },
+    {
+        "pid": "513",
+        "pname": "三星 S5820",
+        "categoryId": 1
+    },
+    {
+        "pid": "514",
+        "pname": "三星 S5630",
+        "categoryId": 1
+    },
+    {
+        "pid": "515",
+        "pname": "三星 i919",
+        "categoryId": 1
+    },
+    {
+        "pid": "516",
+        "pname": "三星 i9050",
+        "categoryId": 1
+    },
+    {
+        "pid": "517",
+        "pname": "三星 B9062",
+        "categoryId": 1
+    },
+    {
+        "pid": "518",
+        "pname": "三星 S7278u",
+        "categoryId": 1
+    },
+    {
+        "pid": "519",
+        "pname": "三星 i699i",
+        "categoryId": 1
+    },
+    {
+        "pid": "520",
+        "pname": "三星 i8258",
+        "categoryId": 1
+    },
+    {
+        "pid": "521",
+        "pname": "三星 S6812i",
+        "categoryId": 1
+    },
+    {
+        "pid": "522",
+        "pname": "三星 i8580",
+        "categoryId": 1
+    },
+    {
+        "pid": "523",
+        "pname": "三星 i659",
+        "categoryId": 1
+    },
+    {
+        "pid": "524",
+        "pname": "三星 S5368",
+        "categoryId": 1
+    },
+    {
+        "pid": "525",
+        "pname": "三星 S5690",
+        "categoryId": 1
+    },
+    {
+        "pid": "526",
+        "pname": "三星 i9018",
+        "categoryId": 1
+    },
+    {
+        "pid": "527",
+        "pname": "三星 i9103",
+        "categoryId": 1
+    },
+    {
+        "pid": "528",
+        "pname": "三星 i589",
+        "categoryId": 1
+    },
+    {
+        "pid": "529",
+        "pname": "三星 i5700",
+        "categoryId": 1
+    },
+    {
+        "pid": "531",
+        "pname": "三星 i8730",
+        "categoryId": 1
+    },
+    {
+        "pid": "532",
+        "pname": "三星 W579",
+        "categoryId": 1
+    },
+    {
+        "pid": "533",
+        "pname": "三星 i8530",
+        "categoryId": 1
+    },
+    {
+        "pid": "534",
+        "pname": "三星 i619",
+        "categoryId": 1
+    },
+    {
+        "pid": "535",
+        "pname": "三星 S7562",
+        "categoryId": 1
+    },
+    {
+        "pid": "536",
+        "pname": "三星 G3508i",
+        "categoryId": 1
+    },
+    {
+        "pid": "538",
+        "pname": "三星 G3518",
+        "categoryId": 1
+    },
+    {
+        "pid": "542",
+        "pname": "三星 B7732",
+        "categoryId": 1
+    },
+    {
+        "pid": "545",
+        "pname": "三星 P709e",
+        "categoryId": 1
+    },
+    {
+        "pid": "546",
+        "pname": "三星 7562i",
+        "categoryId": 1
+    },
+    {
+        "pid": "547",
+        "pname": "三星 W799",
+        "categoryId": 1
+    },
+    {
+        "pid": "548",
+        "pname": "三星 W899",
+        "categoryId": 1
+    },
+    {
+        "pid": "549",
+        "pname": "三星 G5109W",
+        "categoryId": 1
+    },
+    {
+        "pid": "550",
+        "pname": "三星 G3586V",
+        "categoryId": 1
+    },
+    {
+        "pid": "552",
+        "pname": "三星 3586V",
+        "categoryId": 1
+    },
+    {
+        "pid": "553",
+        "pname": "三星 G5306W",
+        "categoryId": 1
+    },
+    {
+        "pid": "554",
+        "pname": "三星 B9120",
+        "categoryId": 1
+    },
+    {
+        "pid": "555",
+        "pname": "三星 GALAXY SM-A7100",
+        "categoryId": 1
+    },
+    {
+        "pid": "2136",
+        "pname": "三星 Galaxy Express SGH-I437P(美版)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2144",
+        "pname": "三星GALAXY S7（G9300/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2149",
+        "pname": "三星 GALAXY S4 9508",
+        "categoryId": 1
+    },
+    {
+        "pid": "2231",
+        "pname": "三星A5100",
+        "categoryId": 1
+    },
+    {
+        "pid": "2273",
+        "pname": "三星Galaxy A7000",
+        "categoryId": 1
+    },
+    {
+        "pid": "2274",
+        "pname": "三星Galaxy A7009",
+        "categoryId": 1
+    },
+    {
+        "pid": "2345",
+        "pname": "三星GALAXY SIII 9300i",
+        "categoryId": 1
+    },
+    {
+        "pid": "2346",
+        "pname": "三星GALAXY SIII i939",
+        "categoryId": 1
+    },
+    {
+        "pid": "2347",
+        "pname": "三星GALAXY SIII i939d",
+        "categoryId": 1
+    },
+    {
+        "pid": "2348",
+        "pname": "三星GALAXY S4 i9500",
+        "categoryId": 1
+    },
+    {
+        "pid": "2349",
+        "pname": "三星GALAXY S4 i959",
+        "categoryId": 1
+    },
+    {
+        "pid": "2350",
+        "pname": "三星GALAXY S4 9507v",
+        "categoryId": 1
+    },
+    {
+        "pid": "2351",
+        "pname": "三星GALAXY Note II N7100",
+        "categoryId": 1
+    },
+    {
+        "pid": "2352",
+        "pname": "三星GALAXY Note II N7108",
+        "categoryId": 1
+    },
+    {
+        "pid": "2353",
+        "pname": "三星GALAXY Note II N7102",
+        "categoryId": 1
+    },
+    {
+        "pid": "2354",
+        "pname": "三星GALAXY Note II N719",
+        "categoryId": 1
+    },
+    {
+        "pid": "2355",
+        "pname": "三星GALAXY Note 3 N9008S",
+        "categoryId": 1
+    },
+    {
+        "pid": "2356",
+        "pname": "三星GALAXY Note N7000",
+        "categoryId": 1
+    },
+    {
+        "pid": "2357",
+        "pname": "三星GALAXY SII I9100",
+        "categoryId": 1
+    },
+    {
+        "pid": "2360",
+        "pname": "三星GALAXY Note4 N9106W",
+        "categoryId": 1
+    },
+    {
+        "pid": "2414",
+        "pname": "三星Galaxy C5000",
+        "categoryId": 1
+    },
+    {
+        "pid": "2421",
+        "pname": "三星GALAXY S7 G9308",
+        "categoryId": 1
+    },
+    {
+        "pid": "2422",
+        "pname": "三星 Galaxy On5系列(G7200)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2423",
+        "pname": "三星A9100",
+        "categoryId": 1
+    },
+    {
+        "pid": "2424",
+        "pname": "三星j7108",
+        "categoryId": 1
+    },
+    {
+        "pid": "2425",
+        "pname": "三星A7108",
+        "categoryId": 1
+    },
+    {
+        "pid": "2577",
+        "pname": "三星j7109",
+        "categoryId": 1
+    },
+    {
+        "pid": "2581",
+        "pname": "三星GALAXY C7（C7000）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2906",
+        "pname": "三星E400",
+        "categoryId": 1
+    },
+    {
+        "pid": "3256",
+        "pname": "三星 n9008v",
+        "categoryId": 1
+    },
+    {
+        "pid": "7663",
+        "pname": "三星 GALAXY On7",
+        "categoryId": 1
+    },
+    {
+        "pid": "7534",
+        "pname": "三星 Galaxy C9 Pro （c9000）",
+        "categoryId": 1
+    },
+    {
+        "pid": "7540",
+        "pname": "三星Galaxy Note 3 Lite(N7508v)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7541",
+        "pname": "三星Galaxy Note 3 Lite(N7509v)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7542",
+        "pname": "三星Galaxy E7(E7009)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7543",
+        "pname": "三星GALAXY J3 Pro(J3119)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7544",
+        "pname": "三星J3109",
+        "categoryId": 1
+    },
+    {
+        "pid": "7545",
+        "pname": "三星2016版GALAXY J5(J5108)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7546",
+        "pname": "三星2016版GALAXY A5(A5108)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7547",
+        "pname": "三星GALAXY Note 4(N9108V)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7548",
+        "pname": "三星I9508v",
+        "categoryId": 1
+    },
+    {
+        "pid": "7720",
+        "pname": "三星G5510",
+        "categoryId": 1
+    },
+    {
+        "pid": "7721",
+        "pname": "三星G5520",
+        "categoryId": 1
+    },
+    {
+        "pid": "7722",
+        "pname": "三星 Galaxy On5系列(G5700)",
+        "categoryId": 1
+    },
+    {
+        "pid": "8074",
+        "pname": "三星 Galaxy Note Edge",
+        "categoryId": 1
+    },
+    {
+        "pid": "8077",
+        "pname": "三星 Galaxy On5",
+        "categoryId": 1
+    },
+    {
+        "pid": "8078",
+        "pname": "三星2016版GALAXY On5  ",
+        "categoryId": 1
+    },
+    {
+        "pid": "8079",
+        "pname": "三星2016版GALAXY On7 (G6100)",
+        "categoryId": 1
+    },
+    {
+        "pid": "9517",
+        "pname": "三星GALAXY Mega 2（G7508Q/G7509）",
+        "categoryId": 1
+    },
+    {
+        "pid": "10943",
+        "pname": "三星 GALAXY C5010",
+        "categoryId": 1
+    },
+    {
+        "pid": "10944",
+        "pname": "三星 GALAXY C5 Pro（c5010/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11645",
+        "pname": "三星Galaxy Folder（G1600）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11699",
+        "pname": "三星大器3（三星G9198）",
+        "categoryId": 1
+    },
+    {
+        "pid": "12101",
+        "pname": "三星 Galaxy Note 7",
+        "categoryId": 1
+    },
+    {
+        "pid": "12104",
+        "pname": "三星GALAXY C9 Pro（C9008/移动4G）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14396",
+        "pname": "三星 Galaxy On5系列(G5500)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14397",
+        "pname": "三星 Galaxy On5系列(G5510)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14398",
+        "pname": "三星 Galaxy On5系列(G5520)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14399",
+        "pname": "三星 Galaxy On5系列(G5528)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14400",
+        "pname": "三星 Galaxy On5系列(G5570)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14564",
+        "pname": "三星GALAXY J3 (J3119S)",
+        "categoryId": 1
+    },
+    {
+        "pid": "16043",
+        "pname": "三星Galaxy J8",
+        "categoryId": 1
+    },
+    {
+        "pid": "401",
+        "pname": "三星 W2015+",
+        "categoryId": 1
+    },
+    {
+        "pid": "400",
+        "pname": "三星 W2015",
+        "categoryId": 1
+    },
+    {
+        "pid": "425",
+        "pname": "三星 GALAXY S6 G9280",
+        "categoryId": 1
+    },
+    {
+        "pid": "419",
+        "pname": "三星 GALAXY S6 G9200",
+        "categoryId": 1
+    },
+    {
+        "pid": "399",
+        "pname": "三星 W2016",
+        "categoryId": 1
+    },
+    {
+        "pid": "450",
+        "pname": "三星 GALAXY E7000",
+        "categoryId": 1
+    },
+    {
+        "pid": "481",
+        "pname": "三星 GALAXY i9108",
+        "categoryId": 1
+    },
+    {
+        "pid": "575",
+        "pname": "Vertu 威图 Aster T 系列（红色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "576",
+        "pname": "Vertu 威图 Ayxta",
+        "categoryId": 1
+    },
+    {
+        "pid": "577",
+        "pname": "Vertu 威图 Constellation Candy",
+        "categoryId": 1
+    },
+    {
+        "pid": "578",
+        "pname": "Vertu 威图 Constellation Quest.",
+        "categoryId": 1
+    },
+    {
+        "pid": "579",
+        "pname": "Vertu 威图 Signature系列 （ 白色 )",
+        "categoryId": 1
+    },
+    {
+        "pid": "580",
+        "pname": "Vertu 威图 Signature系列",
+        "categoryId": 1
+    },
+    {
+        "pid": "581",
+        "pname": "威图 Vertu 赛道-3",
+        "categoryId": 1
+    },
+    {
+        "pid": "1946",
+        "pname": "VERTU Ascent Ti（碳纤维）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2105",
+        "pname": "Vertu 威图 Constellation Candy",
+        "categoryId": 1
+    },
+    {
+        "pid": "2106",
+        "pname": "Vertu 威图 Signature系列（金色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2107",
+        "pname": "Vertu 威图 Signature系列（黑色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2108",
+        "pname": "Vertu 威图 Aster T 系列（蓝色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2109",
+        "pname": "Vertu 威图 Aster T 系列（黑色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2110",
+        "pname": "VERTU 星座版 （咖啡色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2111",
+        "pname": "VERTU 星座版（红色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2112",
+        "pname": "VERTU 星座版（橙色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2237",
+        "pname": "Vertu 威图 Signature Touch L（黑色）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2367",
+        "pname": "Vertu 威图 Signature系列",
+        "categoryId": 1
+    },
+    {
+        "pid": "2417",
+        "pname": "Vertu 威图 Constellation Candy",
+        "categoryId": 1
+    },
+    {
+        "pid": "16069",
+        "pname": "VERTU （威图/纬图）CONSTELLATION X （2018款）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2540",
+        "pname": "华为P9 Plus Vie-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2368",
+        "pname": "华为P9 EVA-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "132",
+        "pname": "华为荣耀7 PLK-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "134",
+        "pname": "华为荣耀7 PLK-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "135",
+        "pname": "华为荣耀7i(ATH)",
+        "categoryId": 1
+    },
+    {
+        "pid": "136",
+        "pname": "华为荣耀7i",
+        "categoryId": 1
+    },
+    {
+        "pid": "137",
+        "pname": "华为P8-CL10(高配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "138",
+        "pname": "华为P8-UL10(高配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "139",
+        "pname": "华为P8-TL00(标配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "140",
+        "pname": "华为P8-UL00(标配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "141",
+        "pname": "华为P8-CL00(标配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "142",
+        "pname": "华为P8(青春版)",
+        "categoryId": 1
+    },
+    {
+        "pid": "149",
+        "pname": "华为Mate S(臻享版)CRR-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "150",
+        "pname": "华为Mate S(臻享版)CRR-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "151",
+        "pname": "华为Mate7-TL00(标配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "152",
+        "pname": "华为Mate7-CL00(标配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "153",
+        "pname": "华为Mate7-TL10(标配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "154",
+        "pname": "华为Mate7-TL10(高配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "155",
+        "pname": "华为Mate7-CL00(高配)",
+        "categoryId": 1
+    },
+    {
+        "pid": "157",
+        "pname": "华为荣耀4A SCL-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "158",
+        "pname": "华为荣耀4A SCL-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "161",
+        "pname": "华为荣耀畅玩5X KIW-TL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "162",
+        "pname": "华为荣耀畅玩5X KIW-AL10全网",
+        "categoryId": 1
+    },
+    {
+        "pid": "163",
+        "pname": "华为Mate8(NXT-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "172",
+        "pname": "华为荣耀Che2-TL00(1G)",
+        "categoryId": 1
+    },
+    {
+        "pid": "174",
+        "pname": "华为荣耀畅玩4C CHM-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "175",
+        "pname": "华为荣耀畅玩4C CHM-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "176",
+        "pname": "华为荣耀畅玩4C CHM-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "193",
+        "pname": "华为畅享5 TIT-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "194",
+        "pname": "华为畅享5 TIT-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "210",
+        "pname": "华为荣耀6（H60—l01)",
+        "categoryId": 1
+    },
+    {
+        "pid": "211",
+        "pname": "华为荣耀6(H60-L12)",
+        "categoryId": 1
+    },
+    {
+        "pid": "212",
+        "pname": "华为荣耀6 Plus PE-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "213",
+        "pname": "华为荣耀6 Plus PE-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "214",
+        "pname": "华为荣耀6 Plus PE-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "215",
+        "pname": "华为荣耀6 Plus PE-TL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2152",
+        "pname": "华为荣耀7 PLK-AL10(全网)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2155",
+        "pname": "华为畅享5S（TAG-AL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2156",
+        "pname": "华为畅享5S（TAG-CL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2261",
+        "pname": "华为荣耀畅玩5X KIW-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2262",
+        "pname": "华为畅享5 TIT-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2263",
+        "pname": "华为畅享5S (TAG-TL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2264",
+        "pname": "华为荣耀4A SCL-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2265",
+        "pname": "华为P8-Max",
+        "categoryId": 1
+    },
+    {
+        "pid": "2267",
+        "pname": "华为荣耀Che2-TL00(2G)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2268",
+        "pname": "荣耀畅玩4X CHE1-CL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2269",
+        "pname": "荣耀畅玩4X CHE1-CL20",
+        "categoryId": 1
+    },
+    {
+        "pid": "2271",
+        "pname": "华为荣耀6 H60-L11",
+        "categoryId": 1
+    },
+    {
+        "pid": "2333",
+        "pname": "华为Mate8（NXT-CL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2334",
+        "pname": "华为 荣耀V8 KNT-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2335",
+        "pname": "华为麦芒4 RIO-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2336",
+        "pname": "华为麦芒4 RIO-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2343",
+        "pname": "华为荣耀畅玩5X KIW-TL01H",
+        "categoryId": 1
+    },
+    {
+        "pid": "2363",
+        "pname": "华为P9 EVA-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2364",
+        "pname": "华为P9 EVA-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2365",
+        "pname": "华为P9 EVA-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2395",
+        "pname": "华为Mate8（NXT-TL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2518",
+        "pname": "华为 荣耀V8 KNT-UL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2538",
+        "pname": "华为G9 Vns-Al00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2539",
+        "pname": "华为G9 VNS-Tl00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2541",
+        "pname": "华为 荣耀V8 KNT-AL20",
+        "categoryId": 1
+    },
+    {
+        "pid": "2582",
+        "pname": "荣耀畅玩5A CAM-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2583",
+        "pname": "荣耀畅玩5A CAM-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2584",
+        "pname": "荣耀畅玩5C NEM-TL01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2585",
+        "pname": "荣耀畅玩5C NEM-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "2646",
+        "pname": "华为 荣耀FRD-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "3125",
+        "pname": "华为麦芒4 RIO-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "3255",
+        "pname": "华为麦芒5 MLA-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "7505",
+        "pname": "华为nova(CAZ-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7549",
+        "pname": "华为Mate9Pro(LON-Al00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7572",
+        "pname": "华为 荣耀 Note8 (EDI-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7719",
+        "pname": "华为荣耀 6X BLN-AL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "7922",
+        "pname": "华为nova(CAZ-TL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7923",
+        "pname": "华为P9 EVA-DL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "7924",
+        "pname": "荣耀畅玩5 CUN-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "7925",
+        "pname": "荣耀畅玩5 CUN-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "7926",
+        "pname": "荣耀畅玩5 CUN-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "7927",
+        "pname": "华为畅享6(NCE-Al00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "7932",
+        "pname": "华为 荣耀 Magic（NTS-AL00/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "8063",
+        "pname": "华为 P10 plus （VKY-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "8064",
+        "pname": "华为 荣耀 V9(DUK-AL20)",
+        "categoryId": 1
+    },
+    {
+        "pid": "8067",
+        "pname": "华为mate9保时捷版",
+        "categoryId": 1
+    },
+    {
+        "pid": "8362",
+        "pname": "华为荣耀8(FRD)",
+        "categoryId": 1
+    },
+    {
+        "pid": "8363",
+        "pname": "华为 畅玩5C NEM-UL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "8522",
+        "pname": "华为 荣耀8 青春版 （PRA-AL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "8839",
+        "pname": "华为 P10 (VTR-Al00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "9205",
+        "pname": "华为nova青春版（WAS-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "10183",
+        "pname": "华为 荣耀V8 KNT-TL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "10211",
+        "pname": "华为 畅享7plus(TRT-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "10467",
+        "pname": "华为Mate9（MAH-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "10468",
+        "pname": "华为麦芒5 MLA-AL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "10561",
+        "pname": "华为nova 2 Plus(BAC-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "10797",
+        "pname": "华为nova2(PIC-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "10894",
+        "pname": "华为 荣耀9（STF-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "11080",
+        "pname": "华为 畅享7（SLA-AL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11081",
+        "pname": "华为 畅享 7Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "11392",
+        "pname": "华为 荣耀 6A(DLI-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "11913",
+        "pname": "华为P10 Plus(玉色版/256GB/全网通)",
+        "categoryId": 1
+    },
+    {
+        "pid": "12159",
+        "pname": "华为麦芒6（RNE-AL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "13830",
+        "pname": "华为 Mate10(ALP-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "13831",
+        "pname": "华为 mate10 保时捷版",
+        "categoryId": 1
+    },
+    {
+        "pid": "13834",
+        "pname": "荣耀畅玩7X(BND-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "13835",
+        "pname": "华为 荣耀 畅玩6X",
+        "categoryId": 1
+    },
+    {
+        "pid": "13858",
+        "pname": "华为 荣耀V9play(JMM-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14555",
+        "pname": "华为 荣耀 V10(BKL-AL20)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14639",
+        "pname": "华为 nova2s(HWI-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14640",
+        "pname": "华为 nova2 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "14904",
+        "pname": "华为 畅享7S(FIG-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "15263",
+        "pname": "荣耀9 青春版 （LLD-AL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "15279",
+        "pname": "荣耀畅玩7C",
+        "categoryId": 1
+    },
+    {
+        "pid": "15283",
+        "pname": "华为 Mate10 Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "15358",
+        "pname": "华为 nova3e",
+        "categoryId": 1
+    },
+    {
+        "pid": "15360",
+        "pname": "华为 P20",
+        "categoryId": 1
+    },
+    {
+        "pid": "15361",
+        "pname": "华为 P20 Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "15376",
+        "pname": "华为 畅享8 （LDN-AL00）",
+        "categoryId": 1
+    },
+    {
+        "pid": "15377",
+        "pname": "华为畅享 8 Plus(FLA-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "15378",
+        "pname": "华为 畅享8e",
+        "categoryId": 1
+    },
+    {
+        "pid": "15531",
+        "pname": "华为 Mate RS",
+        "categoryId": 1
+    },
+    {
+        "pid": "15693",
+        "pname": "华为荣耀10(COL-AL100)",
+        "categoryId": 1
+    },
+    {
+        "pid": "16061",
+        "pname": "荣耀 9i",
+        "categoryId": 1
+    },
+    {
+        "pid": "16062",
+        "pname": "荣耀Play",
+        "categoryId": 1
+    },
+    {
+        "pid": "144",
+        "pname": "华为G7 PLUS-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "145",
+        "pname": "华为G7 PLUS-UL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "146",
+        "pname": "华为G7-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "156",
+        "pname": "华为荣耀4A-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "170",
+        "pname": "华为荣耀3C(畅玩版)HOL-TL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "171",
+        "pname": "华为荣耀3C(畅玩版)HOL-U10",
+        "categoryId": 1
+    },
+    {
+        "pid": "177",
+        "pname": "华为C8818",
+        "categoryId": 1
+    },
+    {
+        "pid": "181",
+        "pname": "华为C8817D",
+        "categoryId": 1
+    },
+    {
+        "pid": "182",
+        "pname": "华为 G621",
+        "categoryId": 1
+    },
+    {
+        "pid": "183",
+        "pname": "华为 G620S",
+        "categoryId": 1
+    },
+    {
+        "pid": "186",
+        "pname": "华为C199",
+        "categoryId": 1
+    },
+    {
+        "pid": "189",
+        "pname": "华为 C8815",
+        "categoryId": 1
+    },
+    {
+        "pid": "190",
+        "pname": "华为 G610",
+        "categoryId": 1
+    },
+    {
+        "pid": "191",
+        "pname": "华为 G610S",
+        "categoryId": 1
+    },
+    {
+        "pid": "192",
+        "pname": "华为 G610C",
+        "categoryId": 1
+    },
+    {
+        "pid": "195",
+        "pname": "华为畅享5 TIT-CL00",
+        "categoryId": 1
+    },
+    {
+        "pid": "207",
+        "pname": "华为P7-L07",
+        "categoryId": 1
+    },
+    {
+        "pid": "208",
+        "pname": "华为P7-L09",
+        "categoryId": 1
+    },
+    {
+        "pid": "209",
+        "pname": "华为P7-L00",
+        "categoryId": 1
+    },
+    {
+        "pid": "7928",
+        "pname": "华为畅享6S(DIG-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14545",
+        "pname": "华为 荣耀 畅玩6(MYA-AL10)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14959",
+        "pname": "华为畅享5 TIT-CL10",
+        "categoryId": 1
+    },
+    {
+        "pid": "15551",
+        "pname": "荣耀 畅玩7a(AUM-AL00)",
+        "categoryId": 1
+    },
+    {
+        "pid": "560",
+        "pname": "小米 M2s",
+        "categoryId": 1
+    },
+    {
+        "pid": "561",
+        "pname": "红米 2A",
+        "categoryId": 1
+    },
+    {
+        "pid": "562",
+        "pname": "小米 M3",
+        "categoryId": 1
+    },
+    {
+        "pid": "563",
+        "pname": "小米4",
+        "categoryId": 1
+    },
+    {
+        "pid": "564",
+        "pname": "红米1s",
+        "categoryId": 1
+    },
+    {
+        "pid": "565",
+        "pname": "红米 Note1.4",
+        "categoryId": 1
+    },
+    {
+        "pid": "566",
+        "pname": "红米 Note1.7",
+        "categoryId": 1
+    },
+    {
+        "pid": "567",
+        "pname": "小米4C",
+        "categoryId": 1
+    },
+    {
+        "pid": "568",
+        "pname": "小米 Note（标配）",
+        "categoryId": 1
+    },
+    {
+        "pid": "571",
+        "pname": "红米 Note3",
+        "categoryId": 1
+    },
+    {
+        "pid": "573",
+        "pname": "小米5",
+        "categoryId": 1
+    },
+    {
+        "pid": "574",
+        "pname": "红米 Note2",
+        "categoryId": 1
+    },
+    {
+        "pid": "2314",
+        "pname": "小米 Note（高配）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2147",
+        "pname": "红米2",
+        "categoryId": 1
+    },
+    {
+        "pid": "2148",
+        "pname": "红米3",
+        "categoryId": 1
+    },
+    {
+        "pid": "2384",
+        "pname": "小米max",
+        "categoryId": 1
+    },
+    {
+        "pid": "2393",
+        "pname": "红米 note",
+        "categoryId": 1
+    },
+    {
+        "pid": "5823",
+        "pname": "小米5S",
+        "categoryId": 1
+    },
+    {
+        "pid": "7383",
+        "pname": "小米5S Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "7419",
+        "pname": "小米3",
+        "categoryId": 1
+    },
+    {
+        "pid": "7506",
+        "pname": "小米Mix",
+        "categoryId": 1
+    },
+    {
+        "pid": "7557",
+        "pname": "红米 Note4",
+        "categoryId": 1
+    },
+    {
+        "pid": "7559",
+        "pname": "红米4",
+        "categoryId": 1
+    },
+    {
+        "pid": "7560",
+        "pname": "红米3s",
+        "categoryId": 1
+    },
+    {
+        "pid": "7561",
+        "pname": "红米3x",
+        "categoryId": 1
+    },
+    {
+        "pid": "7562",
+        "pname": "小米Note2",
+        "categoryId": 1
+    },
+    {
+        "pid": "7563",
+        "pname": "小米4s",
+        "categoryId": 1
+    },
+    {
+        "pid": "7564",
+        "pname": "红米pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "8089",
+        "pname": "小米5c",
+        "categoryId": 1
+    },
+    {
+        "pid": "8090",
+        "pname": "红米Note 4X",
+        "categoryId": 1
+    },
+    {
+        "pid": "8091",
+        "pname": "红米4X",
+        "categoryId": 1
+    },
+    {
+        "pid": "9587",
+        "pname": "小米6",
+        "categoryId": 1
+    },
+    {
+        "pid": "10907",
+        "pname": "小米Max2",
+        "categoryId": 1
+    },
+    {
+        "pid": "11646",
+        "pname": "小米 5X",
+        "categoryId": 1
+    },
+    {
+        "pid": "11908",
+        "pname": "小米Note3",
+        "categoryId": 1
+    },
+    {
+        "pid": "11909",
+        "pname": "小米 mix2",
+        "categoryId": 1
+    },
+    {
+        "pid": "11910",
+        "pname": "小米MIX2(全陶瓷尊享版/128GB/全网通)",
+        "categoryId": 1
+    },
+    {
+        "pid": "11911",
+        "pname": "小米Note3(亮蓝色、亮黑色/128GB/全网通)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14198",
+        "pname": "红米 Note5A",
+        "categoryId": 1
+    },
+    {
+        "pid": "15333",
+        "pname": "红米 5",
+        "categoryId": 1
+    },
+    {
+        "pid": "15357",
+        "pname": "小米 MIX2s",
+        "categoryId": 1
+    },
+    {
+        "pid": "15760",
+        "pname": "小米6X",
+        "categoryId": 1
+    },
+    {
+        "pid": "15971",
+        "pname": "小米8系列",
+        "categoryId": 1
+    },
+    {
+        "pid": "16006",
+        "pname": "黑鲨",
+        "categoryId": 1
+    },
+    {
+        "pid": "16066",
+        "pname": "小米8透明探索版",
+        "categoryId": 1
+    },
+    {
+        "pid": "558",
+        "pname": "小米 M2A",
+        "categoryId": 1
+    },
+    {
+        "pid": "559",
+        "pname": "小米 M2",
+        "categoryId": 1
+    },
+    {
+        "pid": "7558",
+        "pname": "红米4A",
+        "categoryId": 1
+    },
+    {
+        "pid": "14199",
+        "pname": "红米5A",
+        "categoryId": 1
+    },
+    {
+        "pid": "14578",
+        "pname": "红米 5 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "15359",
+        "pname": "红米 Note5",
+        "categoryId": 1
+    },
+    {
+        "pid": "16007",
+        "pname": "红米S2",
+        "categoryId": 1
+    },
+    {
+        "pid": "83",
+        "pname": "HTC One M8t",
+        "categoryId": 1
+    },
+    {
+        "pid": "2255",
+        "pname": "HTC M8et",
+        "categoryId": 1
+    },
+    {
+        "pid": "77",
+        "pname": "HTC Desire 816w",
+        "categoryId": 1
+    },
+    {
+        "pid": "78",
+        "pname": "HTC Desire(D820T移动4G)",
+        "categoryId": 1
+    },
+    {
+        "pid": "79",
+        "pname": "HTC OneE8(M8Sw)",
+        "categoryId": 1
+    },
+    {
+        "pid": "80",
+        "pname": "HTC OneE8(M8St)",
+        "categoryId": 1
+    },
+    {
+        "pid": "81",
+        "pname": "HTC OneE8(M8Sd)",
+        "categoryId": 1
+    },
+    {
+        "pid": "82",
+        "pname": "HTC One M8w",
+        "categoryId": 1
+    },
+    {
+        "pid": "84",
+        "pname": "HTC Desire(820ts)",
+        "categoryId": 1
+    },
+    {
+        "pid": "85",
+        "pname": "HTC Desire(820us)",
+        "categoryId": 1
+    },
+    {
+        "pid": "86",
+        "pname": "HTC Desire(820U)",
+        "categoryId": 1
+    },
+    {
+        "pid": "87",
+        "pname": "HTC Desire(826w)",
+        "categoryId": 1
+    },
+    {
+        "pid": "88",
+        "pname": "HTC Desire(826d)",
+        "categoryId": 1
+    },
+    {
+        "pid": "89",
+        "pname": "HTC Desire(826t)",
+        "categoryId": 1
+    },
+    {
+        "pid": "2239",
+        "pname": "HTC Desire 626w",
+        "categoryId": 1
+    },
+    {
+        "pid": "2240",
+        "pname": "HTC Desire 816V",
+        "categoryId": 1
+    },
+    {
+        "pid": "2242",
+        "pname": "HTC Desire 816t",
+        "categoryId": 1
+    },
+    {
+        "pid": "2244",
+        "pname": "HTC Desire 820t",
+        "categoryId": 1
+    },
+    {
+        "pid": "2254",
+        "pname": "HTC M8E",
+        "categoryId": 1
+    },
+    {
+        "pid": "2256",
+        "pname": "HTC One M8d",
+        "categoryId": 1
+    },
+    {
+        "pid": "2257",
+        "pname": "HTC One E9t",
+        "categoryId": 1
+    },
+    {
+        "pid": "2258",
+        "pname": "HTC One E9w",
+        "categoryId": 1
+    },
+    {
+        "pid": "2259",
+        "pname": "HTC One E9pw",
+        "categoryId": 1
+    },
+    {
+        "pid": "2260",
+        "pname": "HTC One M9w",
+        "categoryId": 1
+    },
+    {
+        "pid": "90",
+        "pname": "诺基亚 Lumia(1520)",
+        "categoryId": 1
+    },
+    {
+        "pid": "91",
+        "pname": "诺基亚 Lumia950xl",
+        "categoryId": 1
+    },
+    {
+        "pid": "92",
+        "pname": "诺基亚 Lumia1020",
+        "categoryId": 1
+    },
+    {
+        "pid": "94",
+        "pname": "诺基亚 Lumia929",
+        "categoryId": 1
+    },
+    {
+        "pid": "8047",
+        "pname": "诺基亚 6",
+        "categoryId": 1
+    },
+    {
+        "pid": "8519",
+        "pname": "8848钛金手机",
+        "categoryId": 1
+    },
+    {
+        "pid": "11741",
+        "pname": "8848 钛金手机M3(尊享版/全网通)",
+        "categoryId": 1
+    },
+    {
+        "pid": "11742",
+        "pname": "8848 钛金手机M3(风尚版/全网通)",
+        "categoryId": 1
+    },
+    {
+        "pid": "11743",
+        "pname": "8848 钛金手机M3(巅峰版/全网通)",
+        "categoryId": 1
+    },
+    {
+        "pid": "11744",
+        "pname": "8848 钛金手机M3（巅峰版/全网通/蜥蜴皮）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11745",
+        "pname": "8848 钛金手机M3（巅峰版/小牛皮版/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11746",
+        "pname": "8848 钛金手机M3（巅峰版/鳄鱼皮版/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11747",
+        "pname": "8848 钛金手机M2（全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "13838",
+        "pname": "诺基亚7",
+        "categoryId": 1
+    },
+    {
+        "pid": "14239",
+        "pname": "8848 M4 巅峰版",
+        "categoryId": 1
+    },
+    {
+        "pid": "14577",
+        "pname": "诺基亚 8",
+        "categoryId": 1
+    },
+    {
+        "pid": "15284",
+        "pname": "诺基亚 7Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "15382",
+        "pname": "诺基亚 8 Sirocco",
+        "categoryId": 1
+    },
+    {
+        "pid": "16068",
+        "pname": "诺基亚 X6(2018年款）",
+        "categoryId": 1
+    },
+    {
+        "pid": "95",
+        "pname": "诺基亚 Lumia1320",
+        "categoryId": 1
+    },
+    {
+        "pid": "96",
+        "pname": "诺基亚 Lumia925",
+        "categoryId": 1
+    },
+    {
+        "pid": "97",
+        "pname": "诺基亚 l",
+        "categoryId": 1
+    },
+    {
+        "pid": "98",
+        "pname": "诺基亚 8800",
+        "categoryId": 1
+    },
+    {
+        "pid": "99",
+        "pname": "诺基亚 8800A",
+        "categoryId": 1
+    },
+    {
+        "pid": "100",
+        "pname": "诺基亚 8800A黄金版",
+        "categoryId": 1
+    },
+    {
+        "pid": "101",
+        "pname": "诺基亚 8800碳纤维版",
+        "categoryId": 1
+    },
+    {
+        "pid": "2138",
+        "pname": "lumia 950xl",
+        "categoryId": 1
+    },
+    {
+        "pid": "2522",
+        "pname": "诺基亚820",
+        "categoryId": 1
+    },
+    {
+        "pid": "2523",
+        "pname": "诺基亚640 1096",
+        "categoryId": 1
+    },
+    {
+        "pid": "2524",
+        "pname": "诺基亚638",
+        "categoryId": 1
+    },
+    {
+        "pid": "2526",
+        "pname": "诺基亚535",
+        "categoryId": 1
+    },
+    {
+        "pid": "116",
+        "pname": "索尼Xperia Z5 E6683（双4G）",
+        "categoryId": 1
+    },
+    {
+        "pid": "117",
+        "pname": "索尼Xperia Z5 Premium E6883",
+        "categoryId": 1
+    },
+    {
+        "pid": "2141",
+        "pname": "索尼Z5 E6683",
+        "categoryId": 1
+    },
+    {
+        "pid": "7460",
+        "pname": "索尼Xperia X （F5122）",
+        "categoryId": 1
+    },
+    {
+        "pid": "9007",
+        "pname": "索尼Xperia X Performance（f8132）",
+        "categoryId": 1
+    },
+    {
+        "pid": "11118",
+        "pname": "索尼Xperia XZ Premium（g8142)",
+        "categoryId": 1
+    },
+    {
+        "pid": "13841",
+        "pname": "索尼Xperia XZs",
+        "categoryId": 1
+    },
+    {
+        "pid": "15699",
+        "pname": "索尼 Xperia XZ2",
+        "categoryId": 1
+    },
+    {
+        "pid": "103",
+        "pname": "索尼Xperia Z1 L39h ",
+        "categoryId": 1
+    },
+    {
+        "pid": "104",
+        "pname": "索尼 Xperia Z1 L36h",
+        "categoryId": 1
+    },
+    {
+        "pid": "105",
+        "pname": "索尼 C6903",
+        "categoryId": 1
+    },
+    {
+        "pid": "106",
+        "pname": "索尼Xperia Z1 L39u",
+        "categoryId": 1
+    },
+    {
+        "pid": "107",
+        "pname": "索尼Xperia Z1 L39t",
+        "categoryId": 1
+    },
+    {
+        "pid": "108",
+        "pname": "索尼Xperia Z2 L50u",
+        "categoryId": 1
+    },
+    {
+        "pid": "109",
+        "pname": "索尼Xperia Z2 L50t",
+        "categoryId": 1
+    },
+    {
+        "pid": "110",
+        "pname": "索尼Xperia Z2 D6503",
+        "categoryId": 1
+    },
+    {
+        "pid": "111",
+        "pname": "索尼Xperia Z2 D6653",
+        "categoryId": 1
+    },
+    {
+        "pid": "112",
+        "pname": "索尼Xperia Z3 L55U",
+        "categoryId": 1
+    },
+    {
+        "pid": "113",
+        "pname": "索尼Xperia Z3 L55t",
+        "categoryId": 1
+    },
+    {
+        "pid": "114",
+        "pname": "索尼 Xperia Z3 Sol26",
+        "categoryId": 1
+    },
+    {
+        "pid": "115",
+        "pname": "索尼Xperia Z3+Dual（E6533/双4G）",
+        "categoryId": 1
+    },
+    {
+        "pid": "118",
+        "pname": "索尼XL39h",
+        "categoryId": 1
+    },
+    {
+        "pid": "119",
+        "pname": "索尼D5833",
+        "categoryId": 1
+    },
+    {
+        "pid": "120",
+        "pname": "索尼Xperia Z1 M51w",
+        "categoryId": 1
+    },
+    {
+        "pid": "121",
+        "pname": "索尼Xperia C3 S55t",
+        "categoryId": 1
+    },
+    {
+        "pid": "122",
+        "pname": "索尼Xperia T2 Ultra Xm50t",
+        "categoryId": 1
+    },
+    {
+        "pid": "123",
+        "pname": "索尼Xperia T2 Ultra Xm50h",
+        "categoryId": 1
+    },
+    {
+        "pid": "124",
+        "pname": "索尼Xperia SP M35t",
+        "categoryId": 1
+    },
+    {
+        "pid": "125",
+        "pname": "索尼Xperia SP M35h",
+        "categoryId": 1
+    },
+    {
+        "pid": "126",
+        "pname": "索尼LT18i",
+        "categoryId": 1
+    },
+    {
+        "pid": "128",
+        "pname": "索尼LT28",
+        "categoryId": 1
+    },
+    {
+        "pid": "129",
+        "pname": "索尼LT29",
+        "categoryId": 1
+    },
+    {
+        "pid": "130",
+        "pname": "索尼S39h",
+        "categoryId": 1
+    },
+    {
+        "pid": "131",
+        "pname": "索尼LT26",
+        "categoryId": 1
+    },
+    {
+        "pid": "2316",
+        "pname": "索尼Xperia SP M35c",
+        "categoryId": 1
+    },
+    {
+        "pid": "2142",
+        "pname": "索尼Z5 E6653",
+        "categoryId": 1
+    },
+    {
+        "pid": "2317",
+        "pname": "索尼Xperia C3 S55U",
+        "categoryId": 1
+    },
+    {
+        "pid": "2318",
+        "pname": "索尼Xperia Z3+Dual（E6553/双4G）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2319",
+        "pname": "索尼Xperia Z5 Compact E5823",
+        "categoryId": 1
+    },
+    {
+        "pid": "2520",
+        "pname": "索尼 E5563",
+        "categoryId": 1
+    },
+    {
+        "pid": "2521",
+        "pname": "索尼z5p E6853",
+        "categoryId": 1
+    },
+    {
+        "pid": "7458",
+        "pname": "索尼Xperia XZ F8332",
+        "categoryId": 1
+    },
+    {
+        "pid": "7459",
+        "pname": "索尼F8132",
+        "categoryId": 1
+    },
+    {
+        "pid": "7750",
+        "pname": "索尼Xperia XA Ultra",
+        "categoryId": 1
+    },
+    {
+        "pid": "619",
+        "pname": "摩托 Moto X Style XT1570",
+        "categoryId": 1
+    },
+    {
+        "pid": "2146",
+        "pname": "摩托罗拉 XT1570",
+        "categoryId": 1
+    },
+    {
+        "pid": "11117",
+        "pname": "Moto Z2 Play",
+        "categoryId": 1
+    },
+    {
+        "pid": "15290",
+        "pname": "摩托罗拉 Moto Z 2018",
+        "categoryId": 1
+    },
+    {
+        "pid": "617",
+        "pname": "摩托 AURA钻石版 R1",
+        "categoryId": 1
+    },
+    {
+        "pid": "618",
+        "pname": "摩托 AURA R1",
+        "categoryId": 1
+    },
+    {
+        "pid": "620",
+        "pname": "摩托Moto X Play XT1561",
+        "categoryId": 1
+    },
+    {
+        "pid": "621",
+        "pname": "摩托Moto X XT1085",
+        "categoryId": 1
+    },
+    {
+        "pid": "622",
+        "pname": "摩托 X PRO XT1115",
+        "categoryId": 1
+    },
+    {
+        "pid": "623",
+        "pname": "摩托 G LTE XT1079",
+        "categoryId": 1
+    },
+    {
+        "pid": "624",
+        "pname": "摩托 G（联通版）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2230",
+        "pname": "摩托罗拉 X极 XT1581",
+        "categoryId": 1
+    },
+    {
+        "pid": "7619",
+        "pname": "摩托罗拉 Moto Z（XT1650）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14634",
+        "pname": "摩托罗拉 Moto Z2 Play（XT1710）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14635",
+        "pname": "摩托罗拉 Moto Z Force",
+        "categoryId": 1
+    },
+    {
+        "pid": "323",
+        "pname": "联想 Z90-7",
+        "categoryId": 1
+    },
+    {
+        "pid": "325",
+        "pname": "联想 P1-C85",
+        "categoryId": 1
+    },
+    {
+        "pid": "355",
+        "pname": "联想 K920",
+        "categoryId": 1
+    },
+    {
+        "pid": "2533",
+        "pname": "联想 A7600-m",
+        "categoryId": 1
+    },
+    {
+        "pid": "8436",
+        "pname": "联想 ZUK Edge",
+        "categoryId": 1
+    },
+    {
+        "pid": "8437",
+        "pname": "联想 ZUK Z2 Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "8438",
+        "pname": "联想 ZUK Z2",
+        "categoryId": 1
+    },
+    {
+        "pid": "8440",
+        "pname": "联想 ZUK Z1",
+        "categoryId": 1
+    },
+    {
+        "pid": "8441",
+        "pname": "联想ZUK Z2 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "10386",
+        "pname": "联想 VIBE P2（P2c72）",
+        "categoryId": 1
+    },
+    {
+        "pid": "2277",
+        "pname": "联想 A788",
+        "categoryId": 1
+    },
+    {
+        "pid": "2278",
+        "pname": "联想 A788-m",
+        "categoryId": 1
+    },
+    {
+        "pid": "2282",
+        "pname": "联想 A880",
+        "categoryId": 1
+    },
+    {
+        "pid": "2283",
+        "pname": "联想 A936",
+        "categoryId": 1
+    },
+    {
+        "pid": "2284",
+        "pname": "联想 A938t",
+        "categoryId": 1
+    },
+    {
+        "pid": "2287",
+        "pname": "联想 K80M",
+        "categoryId": 1
+    },
+    {
+        "pid": "2288",
+        "pname": "联想 K900",
+        "categoryId": 1
+    },
+    {
+        "pid": "2289",
+        "pname": "联想 S60",
+        "categoryId": 1
+    },
+    {
+        "pid": "2290",
+        "pname": "联想 S650",
+        "categoryId": 1
+    },
+    {
+        "pid": "2291",
+        "pname": "联想 S720",
+        "categoryId": 1
+    },
+    {
+        "pid": "2294",
+        "pname": "联想 S938",
+        "categoryId": 1
+    },
+    {
+        "pid": "2296",
+        "pname": "联想 x2pt5",
+        "categoryId": 1
+    },
+    {
+        "pid": "69",
+        "pname": "魅族mx5",
+        "categoryId": 1
+    },
+    {
+        "pid": "70",
+        "pname": "魅族mx5pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "2399",
+        "pname": "魅族 魅蓝3s",
+        "categoryId": 1
+    },
+    {
+        "pid": "2466",
+        "pname": "魅族MX5E",
+        "categoryId": 1
+    },
+    {
+        "pid": "2467",
+        "pname": "魅族Pro6",
+        "categoryId": 1
+    },
+    {
+        "pid": "7568",
+        "pname": "魅族 魅蓝 U10",
+        "categoryId": 1
+    },
+    {
+        "pid": "3953",
+        "pname": "魅族 MX6",
+        "categoryId": 1
+    },
+    {
+        "pid": "5788",
+        "pname": "魅族pro5",
+        "categoryId": 1
+    },
+    {
+        "pid": "7565",
+        "pname": "魅族 魅蓝 E",
+        "categoryId": 1
+    },
+    {
+        "pid": "7569",
+        "pname": "魅族 魅蓝 U20",
+        "categoryId": 1
+    },
+    {
+        "pid": "7570",
+        "pname": "魅族 魅蓝 max",
+        "categoryId": 1
+    },
+    {
+        "pid": "7621",
+        "pname": "魅族 PRO 6s",
+        "categoryId": 1
+    },
+    {
+        "pid": "7718",
+        "pname": "魅族 PRO 6Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "8048",
+        "pname": "魅族 魅蓝 3s",
+        "categoryId": 1
+    },
+    {
+        "pid": "8082",
+        "pname": "魅族 魅蓝 5s",
+        "categoryId": 1
+    },
+    {
+        "pid": "8084",
+        "pname": "魅族 魅蓝X",
+        "categoryId": 1
+    },
+    {
+        "pid": "11197",
+        "pname": "魅族 PRO 7",
+        "categoryId": 1
+    },
+    {
+        "pid": "11199",
+        "pname": "魅族 PRO 7 Plus 致臻版",
+        "categoryId": 1
+    },
+    {
+        "pid": "11200",
+        "pname": "魅族 PRO 7 Plus 标准版",
+        "categoryId": 1
+    },
+    {
+        "pid": "11644",
+        "pname": "魅族 魅蓝 E2",
+        "categoryId": 1
+    },
+    {
+        "pid": "11887",
+        "pname": "魅族 魅蓝 Note6",
+        "categoryId": 1
+    },
+    {
+        "pid": "14238",
+        "pname": "魅族 魅蓝 6",
+        "categoryId": 1
+    },
+    {
+        "pid": "15285",
+        "pname": "魅族 魅蓝 S6",
+        "categoryId": 1
+    },
+    {
+        "pid": "15694",
+        "pname": "魅族 15",
+        "categoryId": 1
+    },
+    {
+        "pid": "15695",
+        "pname": "魅族 15 plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "66",
+        "pname": "魅族mx4",
+        "categoryId": 1
+    },
+    {
+        "pid": "68",
+        "pname": "魅族mx4pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "72",
+        "pname": "魅族 魅蓝note1",
+        "categoryId": 1
+    },
+    {
+        "pid": "73",
+        "pname": "魅族 魅蓝note2",
+        "categoryId": 1
+    },
+    {
+        "pid": "74",
+        "pname": "魅族 魅蓝1",
+        "categoryId": 1
+    },
+    {
+        "pid": "75",
+        "pname": "魅族 魅蓝2",
+        "categoryId": 1
+    },
+    {
+        "pid": "76",
+        "pname": "魅族 魅蓝 metal",
+        "categoryId": 1
+    },
+    {
+        "pid": "2383",
+        "pname": "魅族 魅蓝3",
+        "categoryId": 1
+    },
+    {
+        "pid": "2464",
+        "pname": "魅蓝note3",
+        "categoryId": 1
+    },
+    {
+        "pid": "7566",
+        "pname": "魅族 魅蓝 5",
+        "categoryId": 1
+    },
+    {
+        "pid": "7567",
+        "pname": "魅族 魅蓝 Note5",
+        "categoryId": 1
+    },
+    {
+        "pid": "15549",
+        "pname": "魅蓝 E3",
+        "categoryId": 1
+    },
+    {
+        "pid": "308",
+        "pname": "步步高 ViVo X6 PlusA",
+        "categoryId": 1
+    },
+    {
+        "pid": "2236",
+        "pname": "步步高 ViVo xplay5",
+        "categoryId": 1
+    },
+    {
+        "pid": "7485",
+        "pname": "步步高 ViVo xplay6",
+        "categoryId": 1
+    },
+    {
+        "pid": "7435",
+        "pname": "Vivo X9",
+        "categoryId": 1
+    },
+    {
+        "pid": "8087",
+        "pname": "vivo X9Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "10901",
+        "pname": "vivo X9s Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "10927",
+        "pname": "vivo X9s",
+        "categoryId": 1
+    },
+    {
+        "pid": "12105",
+        "pname": "vivo X20",
+        "categoryId": 1
+    },
+    {
+        "pid": "13837",
+        "pname": "vivo X20 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "14200",
+        "pname": "vivo Y79",
+        "categoryId": 1
+    },
+    {
+        "pid": "14902",
+        "pname": "vivo y75",
+        "categoryId": 1
+    },
+    {
+        "pid": "15309",
+        "pname": "vivo Y85",
+        "categoryId": 1
+    },
+    {
+        "pid": "15310",
+        "pname": "vivo X21",
+        "categoryId": 1
+    },
+    {
+        "pid": "15379",
+        "pname": "vivo Y69",
+        "categoryId": 1
+    },
+    {
+        "pid": "15692",
+        "pname": "vivo y71",
+        "categoryId": 1
+    },
+    {
+        "pid": "15696",
+        "pname": "vivo X21UDA 屏幕指纹版",
+        "categoryId": 1
+    },
+    {
+        "pid": "15868",
+        "pname": "vivo Y83",
+        "categoryId": 1
+    },
+    {
+        "pid": "16044",
+        "pname": "vivo X21i",
+        "categoryId": 1
+    },
+    {
+        "pid": "2510",
+        "pname": "vivo X7",
+        "categoryId": 1
+    },
+    {
+        "pid": "285",
+        "pname": "步步高 ViVo X5L",
+        "categoryId": 1
+    },
+    {
+        "pid": "293",
+        "pname": "步步高 ViVo X520L",
+        "categoryId": 1
+    },
+    {
+        "pid": "294",
+        "pname": "步步高 ViVo X5Maxl",
+        "categoryId": 1
+    },
+    {
+        "pid": "295",
+        "pname": "步步高 ViVo X5Max+",
+        "categoryId": 1
+    },
+    {
+        "pid": "296",
+        "pname": "步步高 ViVo X5SL",
+        "categoryId": 1
+    },
+    {
+        "pid": "297",
+        "pname": "步步高 ViVo X5V",
+        "categoryId": 1
+    },
+    {
+        "pid": "299",
+        "pname": "步步高 ViVo X5 Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "310",
+        "pname": "步步高 ViVo Y23L",
+        "categoryId": 1
+    },
+    {
+        "pid": "311",
+        "pname": "步步高 ViVo Y27",
+        "categoryId": 1
+    },
+    {
+        "pid": "312",
+        "pname": "步步高 ViVo Y28L",
+        "categoryId": 1
+    },
+    {
+        "pid": "313",
+        "pname": "步步高 ViVo Y29",
+        "categoryId": 1
+    },
+    {
+        "pid": "315",
+        "pname": "步步高 ViVo Y627",
+        "categoryId": 1
+    },
+    {
+        "pid": "317",
+        "pname": "步步高 ViVo Y927",
+        "categoryId": 1
+    },
+    {
+        "pid": "320",
+        "pname": "步步高 ViVo Y37",
+        "categoryId": 1
+    },
+    {
+        "pid": "321",
+        "pname": "步步高 ViVo X6D",
+        "categoryId": 1
+    },
+    {
+        "pid": "322",
+        "pname": "步步高 ViVo Y51",
+        "categoryId": 1
+    },
+    {
+        "pid": "2328",
+        "pname": "步步高 ViVo Y13L",
+        "categoryId": 1
+    },
+    {
+        "pid": "2226",
+        "pname": "步步高 ViVo X6A",
+        "categoryId": 1
+    },
+    {
+        "pid": "2324",
+        "pname": "步步高 ViVo X5M",
+        "categoryId": 1
+    },
+    {
+        "pid": "2325",
+        "pname": "步步高 ViVo X6L",
+        "categoryId": 1
+    },
+    {
+        "pid": "2326",
+        "pname": "步步高 ViVo X6 PlusD",
+        "categoryId": 1
+    },
+    {
+        "pid": "2327",
+        "pname": "步步高 ViVo xplay5A",
+        "categoryId": 1
+    },
+    {
+        "pid": "2329",
+        "pname": "步步高 ViVo Y31",
+        "categoryId": 1
+    },
+    {
+        "pid": "2330",
+        "pname": "步步高 ViVo Y33",
+        "categoryId": 1
+    },
+    {
+        "pid": "2331",
+        "pname": "步步高 ViVo Y51A",
+        "categoryId": 1
+    },
+    {
+        "pid": "2332",
+        "pname": "步步高 ViVo Y37A",
+        "categoryId": 1
+    },
+    {
+        "pid": "2341",
+        "pname": "vivo X6Plus ",
+        "categoryId": 1
+    },
+    {
+        "pid": "2389",
+        "pname": "ViVo V3Max A",
+        "categoryId": 1
+    },
+    {
+        "pid": "2416",
+        "pname": "Vivo x6SA",
+        "categoryId": 1
+    },
+    {
+        "pid": "2529",
+        "pname": "Vivo V3",
+        "categoryId": 1
+    },
+    {
+        "pid": "2530",
+        "pname": "Vivo X5Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "2531",
+        "pname": "Vivo Y35a",
+        "categoryId": 1
+    },
+    {
+        "pid": "2532",
+        "pname": "Vivo Y937",
+        "categoryId": 1
+    },
+    {
+        "pid": "7611",
+        "pname": "vivo Y67",
+        "categoryId": 1
+    },
+    {
+        "pid": "3126",
+        "pname": "vivo x7plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "7929",
+        "pname": "vivo Y66",
+        "categoryId": 1
+    },
+    {
+        "pid": "7930",
+        "pname": "vivo Y55A",
+        "categoryId": 1
+    },
+    {
+        "pid": "13857",
+        "pname": "vivo Y53",
+        "categoryId": 1
+    },
+    {
+        "pid": "16045",
+        "pname": "vivo Z1",
+        "categoryId": 1
+    },
+    {
+        "pid": "689",
+        "pname": "一加OnePlus X One E1001",
+        "categoryId": 1
+    },
+    {
+        "pid": "2557",
+        "pname": "一加3",
+        "categoryId": 1
+    },
+    {
+        "pid": "7620",
+        "pname": "一加3T",
+        "categoryId": 1
+    },
+    {
+        "pid": "10796",
+        "pname": "一加5（a5000)",
+        "categoryId": 1
+    },
+    {
+        "pid": "14579",
+        "pname": "一加5T（a5010）",
+        "categoryId": 1
+    },
+    {
+        "pid": "15925",
+        "pname": "一加6",
+        "categoryId": 1
+    },
+    {
+        "pid": "686",
+        "pname": "一加OnePlus",
+        "categoryId": 1
+    },
+    {
+        "pid": "687",
+        "pname": "一加OnePlus Two(4GRAM)",
+        "categoryId": 1
+    },
+    {
+        "pid": "688",
+        "pname": "一加OnePlus Two(3GBAM)",
+        "categoryId": 1
+    },
+    {
+        "pid": "690",
+        "pname": "一加OnePlus One Mini",
+        "categoryId": 1
+    },
+    {
+        "pid": "7283",
+        "pname": "OPPO R9s plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "10212",
+        "pname": "OPPO R11",
+        "categoryId": 1
+    },
+    {
+        "pid": "10332",
+        "pname": "OPPO R11 plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "10925",
+        "pname": "OPPO A77(a77t)",
+        "categoryId": 1
+    },
+    {
+        "pid": "15308",
+        "pname": "OPPO R15",
+        "categoryId": 1
+    },
+    {
+        "pid": "13827",
+        "pname": "OPPO R11s",
+        "categoryId": 1
+    },
+    {
+        "pid": "13828",
+        "pname": "OPPO R11s Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "14582",
+        "pname": "OPPO A73",
+        "categoryId": 1
+    },
+    {
+        "pid": "14641",
+        "pname": "OPPO A79",
+        "categoryId": 1
+    },
+    {
+        "pid": "14903",
+        "pname": "OPPO A83",
+        "categoryId": 1
+    },
+    {
+        "pid": "15311",
+        "pname": "OPPO R15梦境版",
+        "categoryId": 1
+    },
+    {
+        "pid": "15363",
+        "pname": "OPPO A1",
+        "categoryId": 1
+    },
+    {
+        "pid": "15636",
+        "pname": "OPPO A3",
+        "categoryId": 1
+    },
+    {
+        "pid": "2322",
+        "pname": "OPPO R9",
+        "categoryId": 1
+    },
+    {
+        "pid": "2426",
+        "pname": "OPPO R9 plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "229",
+        "pname": "OPPO A31T",
+        "categoryId": 1
+    },
+    {
+        "pid": "230",
+        "pname": "OPPO A51",
+        "categoryId": 1
+    },
+    {
+        "pid": "231",
+        "pname": "OPPO N1T",
+        "categoryId": 1
+    },
+    {
+        "pid": "233",
+        "pname": "OPPO N5117",
+        "categoryId": 1
+    },
+    {
+        "pid": "234",
+        "pname": "OPPO N5207",
+        "categoryId": 1
+    },
+    {
+        "pid": "238",
+        "pname": "OPPO R6007",
+        "categoryId": 1
+    },
+    {
+        "pid": "239",
+        "pname": "OPPO R6607",
+        "categoryId": 1
+    },
+    {
+        "pid": "240",
+        "pname": "OPPO R7 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "241",
+        "pname": "OPPO R7005",
+        "categoryId": 1
+    },
+    {
+        "pid": "242",
+        "pname": "OPPO R7007",
+        "categoryId": 1
+    },
+    {
+        "pid": "243",
+        "pname": "OPPO R8107",
+        "categoryId": 1
+    },
+    {
+        "pid": "244",
+        "pname": "OPPO A31C",
+        "categoryId": 1
+    },
+    {
+        "pid": "246",
+        "pname": "OPPO R8205",
+        "categoryId": 1
+    },
+    {
+        "pid": "247",
+        "pname": "OPPO R8207",
+        "categoryId": 1
+    },
+    {
+        "pid": "248",
+        "pname": "OPPO R8200",
+        "categoryId": 1
+    },
+    {
+        "pid": "249",
+        "pname": "OPPO R7SM",
+        "categoryId": 1
+    },
+    {
+        "pid": "251",
+        "pname": "OPPO A33",
+        "categoryId": 1
+    },
+    {
+        "pid": "252",
+        "pname": "OPPO R7T",
+        "categoryId": 1
+    },
+    {
+        "pid": "256",
+        "pname": "OPPO R7 Plus M",
+        "categoryId": 1
+    },
+    {
+        "pid": "258",
+        "pname": "OPPO R7S",
+        "categoryId": 1
+    },
+    {
+        "pid": "261",
+        "pname": "OPPO X9000",
+        "categoryId": 1
+    },
+    {
+        "pid": "262",
+        "pname": "OPPO X9007",
+        "categoryId": 1
+    },
+    {
+        "pid": "264",
+        "pname": "OPPO X9077",
+        "categoryId": 1
+    },
+    {
+        "pid": "265",
+        "pname": "OPPO A53",
+        "categoryId": 1
+    },
+    {
+        "pid": "2315",
+        "pname": "OPPO A30",
+        "categoryId": 1
+    },
+    {
+        "pid": "2229",
+        "pname": "OPPO R8007",
+        "categoryId": 1
+    },
+    {
+        "pid": "2276",
+        "pname": "OPPO R8000",
+        "categoryId": 1
+    },
+    {
+        "pid": "2321",
+        "pname": "OPPO R7s Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "2382",
+        "pname": "OPPO A37m",
+        "categoryId": 1
+    },
+    {
+        "pid": "2527",
+        "pname": "OPPO A33m",
+        "categoryId": 1
+    },
+    {
+        "pid": "2528",
+        "pname": "OPPO A53m",
+        "categoryId": 1
+    },
+    {
+        "pid": "2606",
+        "pname": "OPPO A59m",
+        "categoryId": 1
+    },
+    {
+        "pid": "7282",
+        "pname": "OPPO R9s",
+        "categoryId": 1
+    },
+    {
+        "pid": "7606",
+        "pname": "OPPO A57",
+        "categoryId": 1
+    },
+    {
+        "pid": "8046",
+        "pname": "OPPO A59s",
+        "categoryId": 1
+    },
+    {
+        "pid": "8088",
+        "pname": "OPPO Find 7（标准版）",
+        "categoryId": 1
+    },
+    {
+        "pid": "10896",
+        "pname": "OPPO R9sk（移动定制/全网通）",
+        "categoryId": 1
+    },
+    {
+        "pid": "14642",
+        "pname": "OPPO R7",
+        "categoryId": 1
+    },
+    {
+        "pid": "16067",
+        "pname": "坚果R1",
+        "categoryId": 1
+    },
+    {
+        "pid": "643",
+        "pname": "锤子坚果 YQ601",
+        "categoryId": 1
+    },
+    {
+        "pid": "644",
+        "pname": "锤子 T1 4G版/SM705",
+        "categoryId": 1
+    },
+    {
+        "pid": "645",
+        "pname": "锤子 T1 3G版/SM701",
+        "categoryId": 1
+    },
+    {
+        "pid": "7622",
+        "pname": "锤子(smartisan) M1L",
+        "categoryId": 1
+    },
+    {
+        "pid": "15550",
+        "pname": "锤子 坚果3",
+        "categoryId": 1
+    },
+    {
+        "pid": "630",
+        "pname": "黑莓Passport Q30",
+        "categoryId": 1
+    },
+    {
+        "pid": "2232",
+        "pname": "黑莓Q30",
+        "categoryId": 1
+    },
+    {
+        "pid": "11119",
+        "pname": "黑莓 KEYone（KY）",
+        "categoryId": 1
+    },
+    {
+        "pid": "12387",
+        "pname": "黑莓 DTEK60(DK60)",
+        "categoryId": 1
+    },
+    {
+        "pid": "12388",
+        "pname": "黑莓 DTEK50(DK50)",
+        "categoryId": 1
+    },
+    {
+        "pid": "13836",
+        "pname": "黑莓Motion",
+        "categoryId": 1
+    },
+    {
+        "pid": "626",
+        "pname": "黑莓 9983",
+        "categoryId": 1
+    },
+    {
+        "pid": "627",
+        "pname": "黑莓 Z10",
+        "categoryId": 1
+    },
+    {
+        "pid": "628",
+        "pname": "黑莓 Z30",
+        "categoryId": 1
+    },
+    {
+        "pid": "629",
+        "pname": "黑莓 Q10",
+        "categoryId": 1
+    },
+    {
+        "pid": "631",
+        "pname": "黑莓 Q5",
+        "categoryId": 1
+    },
+    {
+        "pid": "632",
+        "pname": "黑莓 D990",
+        "categoryId": 1
+    },
+    {
+        "pid": "633",
+        "pname": "黑莓 Priv",
+        "categoryId": 1
+    },
+    {
+        "pid": "634",
+        "pname": "黑莓 9981",
+        "categoryId": 1
+    },
+    {
+        "pid": "635",
+        "pname": "黑莓 P9982",
+        "categoryId": 1
+    },
+    {
+        "pid": "636",
+        "pname": "黑莓 P9930",
+        "categoryId": 1
+    },
+    {
+        "pid": "637",
+        "pname": "黑莓 9850",
+        "categoryId": 1
+    },
+    {
+        "pid": "638",
+        "pname": "黑莓 9860",
+        "categoryId": 1
+    },
+    {
+        "pid": "2233",
+        "pname": "黑莓Q20",
+        "categoryId": 1
+    },
+    {
+        "pid": "15288",
+        "pname": "LG V30",
+        "categoryId": 1
+    },
+    {
+        "pid": "15289",
+        "pname": "LG V30s",
+        "categoryId": 1
+    },
+    {
+        "pid": "15292",
+        "pname": "LG G6",
+        "categoryId": 1
+    },
+    {
+        "pid": "590",
+        "pname": "LG G3 D855",
+        "categoryId": 1
+    },
+    {
+        "pid": "591",
+        "pname": "LG G3 D858",
+        "categoryId": 1
+    },
+    {
+        "pid": "592",
+        "pname": "LG G2 D802",
+        "categoryId": 1
+    },
+    {
+        "pid": "593",
+        "pname": "LG G3 D857",
+        "categoryId": 1
+    },
+    {
+        "pid": "594",
+        "pname": "LG G3 D859",
+        "categoryId": 1
+    },
+    {
+        "pid": "595",
+        "pname": "LG G3 F460",
+        "categoryId": 1
+    },
+    {
+        "pid": "596",
+        "pname": "LG D820",
+        "categoryId": 1
+    },
+    {
+        "pid": "597",
+        "pname": "LG G4 （国际版）",
+        "categoryId": 1
+    },
+    {
+        "pid": "600",
+        "pname": "LG G3 LS990（国行）",
+        "categoryId": 1
+    },
+    {
+        "pid": "603",
+        "pname": "LG G3 F400S",
+        "categoryId": 1
+    },
+    {
+        "pid": "604",
+        "pname": "LG G3 F400K/S/L",
+        "categoryId": 1
+    },
+    {
+        "pid": "606",
+        "pname": "LG D958",
+        "categoryId": 1
+    },
+    {
+        "pid": "609",
+        "pname": "LG H968",
+        "categoryId": 1
+    },
+    {
+        "pid": "610",
+        "pname": "LG G4 H818",
+        "categoryId": 1
+    },
+    {
+        "pid": "611",
+        "pname": "LG G4 H819",
+        "categoryId": 1
+    },
+    {
+        "pid": "612",
+        "pname": "LG G3 LS990",
+        "categoryId": 1
+    },
+    {
+        "pid": "613",
+        "pname": "LG 谷歌5",
+        "categoryId": 1
+    },
+    {
+        "pid": "615",
+        "pname": "LG F300L",
+        "categoryId": 1
+    },
+    {
+        "pid": "2407",
+        "pname": "LG G5",
+        "categoryId": 1
+    },
+    {
+        "pid": "2408",
+        "pname": "LG G4 H815T",
+        "categoryId": 1
+    },
+    {
+        "pid": "2409",
+        "pname": "LG V10 H961",
+        "categoryId": 1
+    },
+    {
+        "pid": "2410",
+        "pname": "LG H959",
+        "categoryId": 1
+    },
+    {
+        "pid": "588",
+        "pname": "乐视Max X900",
+        "categoryId": 1
+    },
+    {
+        "pid": "2361",
+        "pname": "乐视2",
+        "categoryId": 1
+    },
+    {
+        "pid": "2412",
+        "pname": "乐视2 X620",
+        "categoryId": 1
+    },
+    {
+        "pid": "2413",
+        "pname": "乐视2pro x820",
+        "categoryId": 1
+    },
+    {
+        "pid": "2415",
+        "pname": "乐视 X620pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "7367",
+        "pname": "乐视2x520",
+        "categoryId": 1
+    },
+    {
+        "pid": "10905",
+        "pname": "乐视 乐Pro3双摄AI版",
+        "categoryId": 1
+    },
+    {
+        "pid": "585",
+        "pname": "乐视1S X500",
+        "categoryId": 1
+    },
+    {
+        "pid": "586",
+        "pname": "乐视1 X600",
+        "categoryId": 1
+    },
+    {
+        "pid": "587",
+        "pname": "乐视1 Pro X800",
+        "categoryId": 1
+    },
+    {
+        "pid": "7716",
+        "pname": "乐视x622",
+        "categoryId": 1
+    },
+    {
+        "pid": "7364",
+        "pname": "乐视2x625",
+        "categoryId": 1
+    },
+    {
+        "pid": "7365",
+        "pname": "乐视2x528",
+        "categoryId": 1
+    },
+    {
+        "pid": "7366",
+        "pname": "乐视2x621",
+        "categoryId": 1
+    },
+    {
+        "pid": "7368",
+        "pname": "乐视3 x720",
+        "categoryId": 1
+    },
+    {
+        "pid": "7717",
+        "pname": "乐视x626",
+        "categoryId": 1
+    },
+    {
+        "pid": "15918",
+        "pname": "乐视x650",
+        "categoryId": 1
+    },
+    {
+        "pid": "15919",
+        "pname": "乐视x651",
+        "categoryId": 1
+    },
+    {
+        "pid": "2385",
+        "pname": "金立 GN5001",
+        "categoryId": 1
+    },
+    {
+        "pid": "274",
+        "pname": "金立 GN9006",
+        "categoryId": 1
+    },
+    {
+        "pid": "2300",
+        "pname": "金立 M5 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "2301",
+        "pname": "金立 W800",
+        "categoryId": 1
+    },
+    {
+        "pid": "2302",
+        "pname": "金立w900s",
+        "categoryId": 1
+    },
+    {
+        "pid": "2386",
+        "pname": "金立 GN8001",
+        "categoryId": 1
+    },
+    {
+        "pid": "2387",
+        "pname": "金立 GN9010",
+        "categoryId": 1
+    },
+    {
+        "pid": "2534",
+        "pname": "金立 9007",
+        "categoryId": 1
+    },
+    {
+        "pid": "2535",
+        "pname": "金立 Gn5002",
+        "categoryId": 1
+    },
+    {
+        "pid": "2536",
+        "pname": "金立 W909",
+        "categoryId": 1
+    },
+    {
+        "pid": "7851",
+        "pname": "金立 M2017 ",
+        "categoryId": 1
+    },
+    {
+        "pid": "8538",
+        "pname": "金立 M6(GN 8003)",
+        "categoryId": 1
+    },
+    {
+        "pid": "8540",
+        "pname": "金立 M6 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "8542",
+        "pname": "金立 S8（GN9011）",
+        "categoryId": 1
+    },
+    {
+        "pid": "8546",
+        "pname": "金立 S9",
+        "categoryId": 1
+    },
+    {
+        "pid": "10331",
+        "pname": "金立 S10",
+        "categoryId": 1
+    },
+    {
+        "pid": "14071",
+        "pname": "金立 M7",
+        "categoryId": 1
+    },
+    {
+        "pid": "15286",
+        "pname": "金立 S11s",
+        "categoryId": 1
+    },
+    {
+        "pid": "15287",
+        "pname": "金立 S11",
+        "categoryId": 1
+    },
+    {
+        "pid": "267",
+        "pname": "金立 M3",
+        "categoryId": 1
+    },
+    {
+        "pid": "269",
+        "pname": "金立 F303",
+        "categoryId": 1
+    },
+    {
+        "pid": "270",
+        "pname": "金立 GN9000",
+        "categoryId": 1
+    },
+    {
+        "pid": "271",
+        "pname": "金立 GN9000L",
+        "categoryId": 1
+    },
+    {
+        "pid": "272",
+        "pname": "金立 GN9002",
+        "categoryId": 1
+    },
+    {
+        "pid": "273",
+        "pname": "金立 GN9005",
+        "categoryId": 1
+    },
+    {
+        "pid": "275",
+        "pname": "金立 F103",
+        "categoryId": 1
+    },
+    {
+        "pid": "276",
+        "pname": "金立 V185",
+        "categoryId": 1
+    },
+    {
+        "pid": "277",
+        "pname": "金立 V188",
+        "categoryId": 1
+    },
+    {
+        "pid": "278",
+        "pname": "金立 V188S",
+        "categoryId": 1
+    },
+    {
+        "pid": "279",
+        "pname": "金立 W808",
+        "categoryId": 1
+    },
+    {
+        "pid": "280",
+        "pname": "金立 W900",
+        "categoryId": 1
+    },
+    {
+        "pid": "281",
+        "pname": "金立 V183",
+        "categoryId": 1
+    },
+    {
+        "pid": "282",
+        "pname": "金立 F301",
+        "categoryId": 1
+    },
+    {
+        "pid": "283",
+        "pname": "金立 M5",
+        "categoryId": 1
+    },
+    {
+        "pid": "2298",
+        "pname": "金立 F105",
+        "categoryId": 1
+    },
+    {
+        "pid": "2537",
+        "pname": "金立E8",
+        "categoryId": 1
+    },
+    {
+        "pid": "15387",
+        "pname": "金立 金刚2（GN5005)",
+        "categoryId": 1
+    },
+    {
+        "pid": "652",
+        "pname": "酷派 大神F2 8675-HD",
+        "categoryId": 1
+    },
+    {
+        "pid": "653",
+        "pname": "酷派 大神F1 8297",
+        "categoryId": 1
+    },
+    {
+        "pid": "654",
+        "pname": "酷派 大神F2 8297w",
+        "categoryId": 1
+    },
+    {
+        "pid": "655",
+        "pname": "酷派 大神X7 8690",
+        "categoryId": 1
+    },
+    {
+        "pid": "656",
+        "pname": "酷派 8675A",
+        "categoryId": 1
+    },
+    {
+        "pid": "657",
+        "pname": "酷派 8730L",
+        "categoryId": 1
+    },
+    {
+        "pid": "658",
+        "pname": "酷派 大神F1 9976A",
+        "categoryId": 1
+    },
+    {
+        "pid": "659",
+        "pname": "酷派 8730",
+        "categoryId": 1
+    },
+    {
+        "pid": "661",
+        "pname": "酷派 S6 9190L",
+        "categoryId": 1
+    },
+    {
+        "pid": "662",
+        "pname": "酷派锋尚Max A8-930",
+        "categoryId": 1
+    },
+    {
+        "pid": "663",
+        "pname": "酷派锋尚Y82-520",
+        "categoryId": 1
+    },
+    {
+        "pid": "664",
+        "pname": "酷派 ivvi 小骨 pro SK3-01",
+        "categoryId": 1
+    },
+    {
+        "pid": "665",
+        "pname": "酷派 大神 X7 8691-00",
+        "categoryId": 1
+    },
+    {
+        "pid": "667",
+        "pname": "酷派锋尚Pro T2-C00",
+        "categoryId": 1
+    },
+    {
+        "pid": "668",
+        "pname": "酷派锋尚Pro T2-C01",
+        "categoryId": 1
+    },
+    {
+        "pid": "669",
+        "pname": "酷派 大神 X7 8690-T00",
+        "categoryId": 1
+    },
+    {
+        "pid": "670",
+        "pname": "酷派锋尚Pro Y90",
+        "categoryId": 1
+    },
+    {
+        "pid": "672",
+        "pname": "酷派ivvi S6-NT",
+        "categoryId": 1
+    },
+    {
+        "pid": "673",
+        "pname": "酷派大神 1S 9976a",
+        "categoryId": 1
+    },
+    {
+        "pid": "674",
+        "pname": "酷派大神 1S 9970",
+        "categoryId": 1
+    },
+    {
+        "pid": "675",
+        "pname": "酷派 5956",
+        "categoryId": 1
+    },
+    {
+        "pid": "676",
+        "pname": "酷派 8729",
+        "categoryId": 1
+    },
+    {
+        "pid": "2157",
+        "pname": "酷派 8676-M01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2158",
+        "pname": "酷派 8676-A01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2159",
+        "pname": "酷派 8297-W01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2160",
+        "pname": "酷派 8297c-00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2161",
+        "pname": "酷派 8297W00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2162",
+        "pname": "酷派 8297D",
+        "categoryId": 1
+    },
+    {
+        "pid": "2163",
+        "pname": "酷派 8690",
+        "categoryId": 1
+    },
+    {
+        "pid": "2164",
+        "pname": "酷派 8670",
+        "categoryId": 1
+    },
+    {
+        "pid": "2166",
+        "pname": "酷派 8720L",
+        "categoryId": 1
+    },
+    {
+        "pid": "2167",
+        "pname": "酷派 8705",
+        "categoryId": 1
+    },
+    {
+        "pid": "2168",
+        "pname": "酷派 8729",
+        "categoryId": 1
+    },
+    {
+        "pid": "2169",
+        "pname": "酷派 7620L",
+        "categoryId": 1
+    },
+    {
+        "pid": "2170",
+        "pname": "酷派 SS1-01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2171",
+        "pname": "酷派 K1-01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2172",
+        "pname": "酷派 T1",
+        "categoryId": 1
+    },
+    {
+        "pid": "2173",
+        "pname": "酷派 T2",
+        "categoryId": 1
+    },
+    {
+        "pid": "2174",
+        "pname": "酷派 Y90",
+        "categoryId": 1
+    },
+    {
+        "pid": "2177",
+        "pname": "酷派 Y76",
+        "categoryId": 1
+    },
+    {
+        "pid": "2178",
+        "pname": "酷派 S6-N1",
+        "categoryId": 1
+    },
+    {
+        "pid": "2179",
+        "pname": "酷派 9190-T00",
+        "categoryId": 1
+    },
+    {
+        "pid": "2180",
+        "pname": "酷派 5892",
+        "categoryId": 1
+    },
+    {
+        "pid": "2181",
+        "pname": "酷派 5951",
+        "categoryId": 1
+    },
+    {
+        "pid": "2182",
+        "pname": "酷派 8732",
+        "categoryId": 1
+    },
+    {
+        "pid": "2183",
+        "pname": "酷派 A8-930",
+        "categoryId": 1
+    },
+    {
+        "pid": "2390",
+        "pname": "酷派8692-A01",
+        "categoryId": 1
+    },
+    {
+        "pid": "2391",
+        "pname": "酷派8692-M02",
+        "categoryId": 1
+    },
+    {
+        "pid": "2392",
+        "pname": "酷派锋尚MAX A8-831",
+        "categoryId": 1
+    },
+    {
+        "pid": "7612",
+        "pname": "酷派 ivvi i3  ",
+        "categoryId": 1
+    },
+    {
+        "pid": "8427",
+        "pname": "努比亚 Z11",
+        "categoryId": 1
+    },
+    {
+        "pid": "8428",
+        "pname": "努比亚 Z11 MAX",
+        "categoryId": 1
+    },
+    {
+        "pid": "8429",
+        "pname": "努比亚 Z11 mini S",
+        "categoryId": 1
+    },
+    {
+        "pid": "8430",
+        "pname": "努比亚 Nubia Z11 mini",
+        "categoryId": 1
+    },
+    {
+        "pid": "12272",
+        "pname": "中兴天机7（顶配版/全网通）A2017,新AXON天机,顶配版axon7",
+        "categoryId": 1
+    },
+    {
+        "pid": "13842",
+        "pname": "中兴天机7s",
+        "categoryId": 1
+    },
+    {
+        "pid": "216",
+        "pname": "中兴 努比亚NX511J",
+        "categoryId": 1
+    },
+    {
+        "pid": "217",
+        "pname": "中兴 努比亚NX505J",
+        "categoryId": 1
+    },
+    {
+        "pid": "218",
+        "pname": "中兴 努比亚NX507J",
+        "categoryId": 1
+    },
+    {
+        "pid": "220",
+        "pname": "中兴  S291",
+        "categoryId": 1
+    },
+    {
+        "pid": "222",
+        "pname": "中兴 努比亚N918SE",
+        "categoryId": 1
+    },
+    {
+        "pid": "223",
+        "pname": "中兴 A880",
+        "categoryId": 1
+    },
+    {
+        "pid": "224",
+        "pname": "中兴 努比亚NX513J",
+        "categoryId": 1
+    },
+    {
+        "pid": "225",
+        "pname": "中兴 努比亚NX512J",
+        "categoryId": 1
+    },
+    {
+        "pid": "226",
+        "pname": "中兴 努比亚NX510J",
+        "categoryId": 1
+    },
+    {
+        "pid": "2340",
+        "pname": "中兴 N958ST",
+        "categoryId": 1
+    },
+    {
+        "pid": "2344",
+        "pname": "中兴 NX508J",
+        "categoryId": 1
+    },
+    {
+        "pid": "2366",
+        "pname": "中兴 努比亚NX518J",
+        "categoryId": 1
+    },
+    {
+        "pid": "2388",
+        "pname": "中兴 A2015",
+        "categoryId": 1
+    },
+    {
+        "pid": "8432",
+        "pname": "努比亚 N1",
+        "categoryId": 1
+    },
+    {
+        "pid": "8433",
+        "pname": "努比亚 Nubia 布拉格S",
+        "categoryId": 1
+    },
+    {
+        "pid": "8434",
+        "pname": "努比亚 Nubia 布拉格",
+        "categoryId": 1
+    },
+    {
+        "pid": "639",
+        "pname": "TCL S720T(移动版)",
+        "categoryId": 1
+    },
+    {
+        "pid": "640",
+        "pname": "TCL Hero N3/Y910T(移动版)",
+        "categoryId": 1
+    },
+    {
+        "pid": "641",
+        "pname": "TCL Hero N3/Y910(联通版)",
+        "categoryId": 1
+    },
+    {
+        "pid": "642",
+        "pname": "TCL Ono（P620M/移动4G）",
+        "categoryId": 1
+    },
+    {
+        "pid": "8247",
+        "pname": "美图 T8",
+        "categoryId": 1
+    },
+    {
+        "pid": "10268",
+        "pname": "美图M8",
+        "categoryId": 1
+    },
+    {
+        "pid": "10799",
+        "pname": "美图M6s",
+        "categoryId": 1
+    },
+    {
+        "pid": "11912",
+        "pname": "美图T8s",
+        "categoryId": 1
+    },
+    {
+        "pid": "14512",
+        "pname": "美图V6",
+        "categoryId": 1
+    },
+    {
+        "pid": "14576",
+        "pname": "美图M8s",
+        "categoryId": 1
+    },
+    {
+        "pid": "646",
+        "pname": "美图M4",
+        "categoryId": 1
+    },
+    {
+        "pid": "647",
+        "pname": "美图 MK260",
+        "categoryId": 1
+    },
+    {
+        "pid": "648",
+        "pname": "美图 V4",
+        "categoryId": 1
+    },
+    {
+        "pid": "649",
+        "pname": "美图M4 Hello Kitty特别版",
+        "categoryId": 1
+    },
+    {
+        "pid": "650",
+        "pname": "美图M4 多啦A梦版",
+        "categoryId": 1
+    },
+    {
+        "pid": "651",
+        "pname": "美图M4 标准版",
+        "categoryId": 1
+    },
+    {
+        "pid": "3254",
+        "pname": "美图M6",
+        "categoryId": 1
+    },
+    {
+        "pid": "7514",
+        "pname": "美图 V4S",
+        "categoryId": 1
+    },
+    {
+        "pid": "7931",
+        "pname": "美图 M4s",
+        "categoryId": 1
+    },
+    {
+        "pid": "677",
+        "pname": "朵唯L5 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "678",
+        "pname": "朵唯倾城3C",
+        "categoryId": 1
+    },
+    {
+        "pid": "679",
+        "pname": "朵唯L3",
+        "categoryId": 1
+    },
+    {
+        "pid": "680",
+        "pname": "朵唯L1",
+        "categoryId": 1
+    },
+    {
+        "pid": "681",
+        "pname": "朵唯iSuper S2",
+        "categoryId": 1
+    },
+    {
+        "pid": "682",
+        "pname": "朵唯逆客",
+        "categoryId": 1
+    },
+    {
+        "pid": "683",
+        "pname": "朵唯iSuper S2 萝莉版",
+        "categoryId": 1
+    },
+    {
+        "pid": "684",
+        "pname": "朵唯L5 Pro",
+        "categoryId": 1
+    },
+    {
+        "pid": "685",
+        "pname": "朵唯iSuper S2 标准版",
+        "categoryId": 1
+    },
+    {
+        "pid": "2303",
+        "pname": "朵唯L1M",
+        "categoryId": 1
+    },
+    {
+        "pid": "2304",
+        "pname": "朵唯 L5",
+        "categoryId": 1
+    },
+    {
+        "pid": "2305",
+        "pname": "朵唯 L5m",
+        "categoryId": 1
+    },
+    {
+        "pid": "2306",
+        "pname": "朵唯 L6",
+        "categoryId": 1
+    },
+    {
+        "pid": "2307",
+        "pname": "朵唯S2x",
+        "categoryId": 1
+    },
+    {
+        "pid": "2308",
+        "pname": "朵唯S2y",
+        "categoryId": 1
+    },
+    {
+        "pid": "2309",
+        "pname": "朵唯S3",
+        "categoryId": 1
+    },
+    {
+        "pid": "2310",
+        "pname": "朵唯T20",
+        "categoryId": 1
+    },
+    {
+        "pid": "2311",
+        "pname": "朵唯T35",
+        "categoryId": 1
+    },
+    {
+        "pid": "2312",
+        "pname": "朵唯T60",
+        "categoryId": 1
+    },
+    {
+        "pid": "2313",
+        "pname": "朵唯T90",
+        "categoryId": 1
+    },
+    {
+        "pid": "822",
+        "pname": "谷歌Nexus 6P",
+        "categoryId": 1
+    },
+    {
+        "pid": "8525",
+        "pname": "360 N4S",
+        "categoryId": 1
+    },
+    {
+        "pid": "8527",
+        "pname": "360 N4A",
+        "categoryId": 1
+    },
+    {
+        "pid": "8529",
+        "pname": "360 N5",
+        "categoryId": 1
+    },
+    {
+        "pid": "8531",
+        "pname": "360 Q5",
+        "categoryId": 1
+    },
+    {
+        "pid": "8533",
+        "pname": "360 Q5 Plus",
+        "categoryId": 1
+    },
+    {
+        "pid": "8534",
+        "pname": "360 f4",
+        "categoryId": 1
+    },
+    {
+        "pid": "10926",
+        "pname": "努比亚Z17（尊享版/全网通）NX563J",
+        "categoryId": 1
+    },
+    {
+        "pid": "12269",
+        "pname": "努比亚Z11（nubia）(NX531J)",
+        "categoryId": 1
+    },
+    {
+        "pid": "12270",
+        "pname": "努比亚Z17（标准版/全网通）NX563J",
+        "categoryId": 1
+    },
+    {
+        "pid": "12271",
+        "pname": "努比亚Z17（黑金版/全网通）NX563J",
+        "categoryId": 1
+    },
+    {
+        "pid": "12273",
+        "pname": "中兴天机7（高配版/全网通）A2017,新AXON天机,高配版axon7",
+        "categoryId": 1
+    },
+    {
+        "pid": "13832",
+        "pname": "努比亚Z17s 旗舰版",
+        "categoryId": 1
+    },
+    {
+        "pid": "13833",
+        "pname": "努比亚Z17miniS",
+        "categoryId": 1
+    },
+    {
+        "pid": "15291",
+        "pname": "努比亚 M2",
+        "categoryId": 1
+    },
+    {
+        "pid": "15380",
+        "pname": "努比亚 V18",
+        "categoryId": 1
+    },
+    {
+        "pid": "15381",
+        "pname": "努比亚 N3",
+        "categoryId": 1
+    },
+    {
+        "pid": "15697",
+        "pname": "努比亚 Z18mini",
+        "categoryId": 1
+    },
+    {
+        "pid": "15698",
+        "pname": "努比亚 红魔电竞游戏手机",
+        "categoryId": 1
+    }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>jQuery测试</title>
+    <!--<link rel='stylesheet' href='/stylesheets/style.css'/>-->
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        function test() {
+            const domain = 'http://localhost:4000';
+            $.ajax({
+                type: "GET",
+                url: `${domain}/api/questionItem`,
+                headers: {
+                    'Content-Type': 'application/json',
+                    'bj_asid': "b0313a861df2af45826fe8377ab4f71a499bf4b99f4bffdba5cb253672aa5b8c8fc312a5b19e21210c0771b0849b0ac534cd29370a5951e242c7a937c57281a392a288e7e4b80488df49f7acfe64d88a6644427c6ef1563158fd829bba6ec1c9"
+                },
+                dataType: 'text',
+                data: {
+                    channel: 4,
+                    question: ''
+                },
+                async: true,
+                success: function (data) {
+                    console.info(JSON.parse(data));
+                },
+                error: function (e) {
+                    console.error('>>>>',e);
+                }
+            });
+        }
+    </script>
+  </head>
+  <body onload="test()">
+
+    <!--<ul>
+      <li><strong>list</strong> item 1 - one strong tag</li>
+      <li><strong>list</strong> item <strong>2</strong>
+        - two <span>strong tags</span></li>
+      <li>list item 3</li>
+      <li>list item 4</li>
+      <li>list item 5</li>
+      <li>list item 6</li>
+    </ul>-->
+
+  </body>
+</html>

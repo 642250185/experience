@@ -1,0 +1,48 @@
+apps:
+
+  #- script : new.js
+   # name: hsb
+    #cwd: /data/bijia
+    ##watch  : true
+
+  #- script : app.js
+    #name: ahs
+    #cwd: /data/bijia/new
+    #watch  : true
+
+  #- script : ash_tablet.js
+    #name: ahs_tablet
+    #cwd: /data/bijia
+    #watch  : true
+
+  #- script : hsb.price.new.js
+   # name: hsb
+   # cwd: /data/bijia
+
+  #- script : whsht.price.js
+    # name: whsht
+    # cwd: /data/bijia
+
+  #- script : app.js
+   # name: whsqd
+   # cwd: /data/bijia/whsqd/price
+
+  - script : lhsPrice.js
+    name: lhs
+    cwd: /testWork/test/priceTest
+
+  - script : shanhsPrice.js
+    name: shanhs
+    cwd: /testWork/test/priceTest
+
+  - script : pphsPrice.js
+    name: pphs
+    cwd: /testWork/test/priceTest
+
+  - script : gumaPrice.js
+    name: guma
+    cwd: /testWork/test/priceTest
+
+  - script : ajhPrice.js
+    name: ajh
+    cwd: /testWork/test/priceTest
