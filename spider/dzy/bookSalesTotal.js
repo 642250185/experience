@@ -1,10 +1,8 @@
 const _ = require('lodash');
-const _path = require('path');
 const fs = require('fs-extra');
 const request = require('superagent');
 const config = require('../../config/index');
 const sleep = require('js-sleep/js-sleep');
-const {changeIP} = require('../../util/iputil');
 const {getHeader} = require('../../util/duozhuayuUtil');
 const {formatDate} = require('../../util/dateUtil');
 const xlsx = require('node-xlsx').default;
@@ -45,10 +43,6 @@ const getBookSalesTotal = async (book, page, sumList) =>
         return {};
     }
 };
-
-
-
-
 
 
 const getAllBookSalesTotal = async () =>

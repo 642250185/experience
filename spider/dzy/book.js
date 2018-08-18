@@ -4,7 +4,6 @@ const fs = require('fs-extra');
 const request = require('superagent');
 const config = require('../../config');
 const sleep = require('js-sleep/js-sleep');
-const {changeIP} = require('../../util/iputil');
 const {getHeader} = require('../../util/duozhuayuUtil');
 const {formatDate} = require('../../util/dateUtil');
 const xlsx = require('node-xlsx').default;
