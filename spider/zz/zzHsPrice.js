@@ -134,9 +134,6 @@ const getAllBookPrice = async () =>
             console.info('count: >> ', count);
             const blist = await getBookPrice(isbn);
             resultList = resultList.concat(blist);
-            // if(_.isInteger(count / 10)){
-            //     sleep(1000 * 3);
-            // }
         }
 
         console.info('resultList.Size: %d', resultList.length);

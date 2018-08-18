@@ -1,5 +1,3 @@
-const fs = require('fs-extra');
-const cheerio = require('cheerio');
 const request = require('superagent');
 
 const getPrcie = async () =>
