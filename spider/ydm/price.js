@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 const request = require('superagent');
 const config = require('../../config');
 const xlsx = require('node-xlsx').default;
-const obj  = xlsx.parse('../../file/ydmPrice.xlsx');
+const obj  = xlsx.parse('../../file/ydm/ydmPrice.xlsx');
 const {formatDate} = require('../../util/dateUtil');
 const {exportPath, downloadPath, spuDataPath} = config.ydm;
 

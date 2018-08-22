@@ -1,4 +1,4 @@
-
+const moment = require('moment');
 const _ = require('lodash');
 // let str = "已有88人回收";
 // str = parseInt(str.substring(str.indexOf('有') + 1, str.indexOf('人')));
@@ -24,9 +24,21 @@ const _ = require('lodash');
 // }
 
 
-let array = [44,10,55,205,403,154,54,78,135,97,33,70,112,11,89,66,86,118,146,1306,600,86,93];
+// let array = [44,10,55,205,403,154,54,78,135,97,33,70,112,11,89,66,86,118,146,1306,600,86,93];
+//
+// console.info('>> ', _.sum(array));
 
-console.info('>> ', _.sum(array));
+// let time = '2016-6';
+//
+// time = moment(time).format('YYYY-MM-DD HH:mm:ss');
+//
+// console.info(time);
+let b = [];
+let a = [1,2,3];
+a.pop();
+b = a;
+console.error(b);
+
 
 
 

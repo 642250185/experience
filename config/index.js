@@ -50,6 +50,7 @@ const config = {
         category_path: '/api/categories',
         booksDataPath: path.join(__dirname, '..', 'data/dzy/books.json'),
         categoryDataPath: path.join(__dirname, '..', 'data/dzy/category.json'),
+        partBooksDataPath: path.join(__dirname, '..', 'data/dzy/partBooks.json'),
         exportPath: path.join(__dirname, '..', 'download/excel'),
     },
     zz: {

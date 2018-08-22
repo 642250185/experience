@@ -5,7 +5,7 @@ const request = require('superagent');
 const config = require('../../config');
 const xlsx = require('node-xlsx').default;
 const sleep = require('js-sleep/js-sleep');
-const obj  = xlsx.parse('../../file/zzISBN.xlsx');
+const obj  = xlsx.parse('../../file/zz/zzISBN.xlsx');
 const {formatDate} = require('../../util/dateUtil');
 
 const {PPU, domain, openRoute, addCartPath, bookCartListPath, delRecyclePath, bookDataPath, exportPath} = config.zz;
