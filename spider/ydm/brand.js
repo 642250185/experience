@@ -7,8 +7,7 @@ const config = require('../../config');
 
 const {domain, brandPath, brandDataPath} = config.ydm;
 
-const getBrands = async (path) =>
-{
+const getBrands = async (path) => {
     try {
         console.info('获取品牌数据......');
         const brandList = [];
@@ -29,8 +28,7 @@ const getBrands = async (path) =>
     }
 };
 
-const getAllBrands = async () =>
-{
+const getAllBrands = async () => {
     try {
         const path = `${domain}${brandPath}`;
         return await getBrands(path);
@@ -40,12 +38,14 @@ const getAllBrands = async () =>
     }
 };
 
-const crawlerBrands = async () =>
-{
+const crawlerBrands = async () => {
     try {
         const bids = await getAllBrands();
-        await fs.ensureDir(_path.join(brandDataPath, '..'));
-        fs.writeFileSync(brandDataPath, JSON.stringify(bids, null, 4));
+        console.info('bids: ', bids);
+
+        // await fs.ensureDir(_path.join(brandDataPath, '..'));
+        // fs.writeFileSync(brandDataPath, JSON.stringify(bids, null, 4));
+        //
         return bids;
     } catch (e) {
         console.error(e);

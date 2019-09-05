@@ -67,6 +67,14 @@ const config = {
         phone: 1,
         tablet: 2
     },
+    rabbitMQ: {
+        port: '5672',
+        username: 'admin',
+        password: 'admin123',
+        host: '172.16.242.186',
+        vhost: 'test-host',
+        queue: 'test-queue'
+    },
     /**
      * 返回或设置当前环镜
      */
